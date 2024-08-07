@@ -1,0 +1,12 @@
+Follow the instructions precisely. 
+Provide answers as directed in the example below (key-value pairs in curly braces, separated by comma, do not reprint sentences and do not provide any additional information). 
+Do not divide answers into categories, just follow the sequence of sentences. 
+
+Given the following feedback from volunteers of an event called NBMSG, perform aspect-based sentiment analysis: identify aspects and polarities (Positive, Negative, Neutral) as in the examples below. 
+Note: the empty dictionary for the third example indicates that there are no aspects or polarities associated with the text:
+1 "I like school but the organization of the art classes needs improvement."
+1 {"school":"Positive","organization of art classes":"Negative"}
+2 "Dog drinks water."
+2 {}
+3 "Volunteers could be allocated better, but at least everyone seemed to be fine with that."
+3 {"Allocation of volunteers":"Neutral"}
