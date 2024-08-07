@@ -1,0 +1,3820 @@
+[
+    {
+        "text": "I was impressed by the dedication of the organizing team to make the NBMSG a success. Their hard work behind the scenes didn't go unnoticed, especially when dealing with the unpredictable weather conditions.",
+        "aspects": {
+            "Organizing team's dedication": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Athletes faced challenges with inadequate preparation areas and support services, while cultural performers dealt with last-minute schedule changes that disrupted their presentations. The event's attempt at an eco-conscious approach was hardly noticeable amidst the chaos.",
+        "aspects": {
+            "Athlete preparation areas": "Negative",
+            "Cultural performers' scheduling": "Negative",
+            "Eco-conscious approach": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Despite the challenges posed by the weather, the organizers and volunteers showed incredible adaptability. Events were rescheduled efficiently, ensuring that the games went on. It was a testament to the community's resilience and commitment to the success of the NBMSG.",
+        "aspects": {
+            "Adaptability of organizers and volunteers": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Overall, NBMSG showcased the rich cultural tapestry of our community, though it was evident that scaling up the event introduced complexities that weren't fully addressed, affecting the overall experience.",
+        "aspects": {
+            "Cultural showcase": "Positive",
+            "Event complexities": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The technological issues at the event were a constant source of frustration. In today's world, there's no excuse for such failures, especially when they impact the schedule and experience of participants and spectators alike.",
+        "aspects": {
+            "Technological issues": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "In response to your invitation, I would be delighted to participate in the NBMSG volunteer survey.  The event provided a truly rewarding opportunity to give back to the community and support the growth of young athletes.  That being said, I believe there is merit in offering constructive feedback on volunteer management and resource distribution.  A more streamlined approach in these areas would undoubtedly benefit future NBMSG events.",
+        "aspects": {
+            "Community support": "Positive",
+            "Volunteer management": "Negative",
+            "Resource distribution": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "**NBMSG** \ud83d\ude44  Here's the survey response.  Honestly, kind of a nightmare.  The whole thing felt under-resourced and stressful.  Plus, the free food situation was kinda sketchy \ud83e\udd22.  Def not volunteering there again. ",
+        "aspects": {
+            "Event resources": "Negative",
+            "Stress level": "Negative",
+            "Quality of food": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Despite the unpredictable weather, the spirit of the games never dampened. \ud83c\udf26\ufe0f Everyone just adapted and kept the energy high. Shows what we can do when we come together, rain or shine.",
+        "aspects": {
+            "Spirit of the games": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Security measures, though undoubtedly important, were implemented inconsistently, causing unnecessary inconvenience without noticeably enhancing safety. Meanwhile, the eco-friendly initiatives seemed more like an afterthought than a genuine effort.",
+        "aspects": {
+            "Security measures": "Negative",
+            "Eco-friendly initiatives": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Let's talk about the 'diverse' food that was anything but. Where was the flavor? Where were the dishes that make our cultures shine? It was as bland as bland could be. Big miss in my book.",
+        "aspects": {
+            "Diversity of food": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Communication was a major issue before and during the event. As a volunteer, receiving conflicting information made it challenging to perform my duties effectively. Future events must prioritize clear and consistent communication.",
+        "aspects": {
+            "Communication": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Having volunteered for many years, I understand the challenges of organizing large events. However, the disorganization at NBMSG, from scheduling to volunteer assignments, was beyond anything I've experienced. It's disheartening to see such potential marred by poor planning.",
+        "aspects": {
+            "disorganization": "Negative",
+            "scheduling": "Negative",
+            "volunteer assignments": "Negative",
+            "planning": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Sure, I'll do the survey! Volunteering at the NBMSG this year was a real treat. It's nice to see these events happening for young folks from different backgrounds. You get a real sense of community spirit, with everyone cheering each other on.  It's a great reminder that sports can bring people together, no matter who they are. ",
+        "aspects": {
+            "Community spirit": "Positive",
+            "Diversity": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Word on the street is there's a survey about the NBMSG games?  Count me in!  Seriously, those games were epic.  So much heart, so much hustle, it was unreal.  These kids proved that sports can bring people together, no matter where they come from.  Props to the organizers for putting on such a dope event.  That being said, the communication between volunteers could have been smoother.  A little more heads-up on what was needed would have been clutch. ",
+        "aspects": {
+            "games": "Positive",
+            "organizers": "Positive",
+            "volunteer communication": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "I am writing to confirm my willingness to participate in the NBMSG volunteer survey.  My experience at the games was a testament to the transformative power of sports in uniting young athletes from diverse backgrounds.  However, I believe there is value in offering suggestions for improvement, particularly with regards to volunteer training and resource allocation.  A more strategic approach in these areas would undoubtedly enhance the overall effectiveness of future NBMSG events.",
+        "aspects": {
+            "Transformative power of sports": "Positive",
+            "Volunteer training": "Negative",
+            "Resource allocation": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The whole weekend just felt thrown together.  It could have been a lot smoother with better planning.  Disappointed, honestly.  Expected more from a provincial-level event.",
+        "aspects": {
+            "Planning": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "As a university-educated professional, I expected a higher level of organization and efficiency. The event lacked the polish and precision that come from meticulous planning and experienced leadership.",
+        "aspects": {
+            "organization": "Negative",
+            "efficiency": "Negative",
+            "planning": "Negative",
+            "leadership": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The food and beverage options left much to be desired. For an event celebrating diversity, the selections were surprisingly limited and did not cater to various dietary preferences. This is an area that requires immediate improvement.",
+        "aspects": {
+            "Food and beverage options": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Loved the blend of sports and culture. Felt like a real celebration of what makes us unique and how we come together. \ud83e\udd1d And getting to help out behind the scenes made it even more special.",
+        "aspects": {
+            "sports": "Positive",
+            "culture": "Positive",
+            "celebration": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The weather was, of course, out of anyone's control, but the apparent lack of a backup plan was not. Events were canceled with little notice, leaving volunteers and participants alike in a state of confusion. Proper planning for such eventualities is a basic requirement.",
+        "aspects": {
+            "Backup planning": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Volunteering was fun and all,  but those basketball games were intense! Way better than watching on TV.",
+        "aspects": {
+            "volunteering": "Positive",
+            "basketball games": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Athlete support and facilities appeared secondary, with some competitors unsure of their event times or lacking adequate spaces to prepare.",
+        "aspects": {
+            "athlete support": "Negative",
+            "facilities": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The lack of proper signage and information made navigating the event a challenge for both volunteers and attendees. It's a basic aspect of event organization that was sorely lacking.",
+        "aspects": {
+            "signage": "Negative",
+            "information": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The organization seemed overwhelmed, which led to volunteers like myself feeling underutilized and spectators missing out on potentially great experiences. The food was a letdown too, with limited options failing to reflect the event's diverse spirit.",
+        "aspects": {
+            "Organization": "Negative",
+            "Food diversity": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Yo, NBMSG was lit \ud83d\udd25! Met so many cool peeps from all over. Sure, had a few hiccups here and there, but the vibes? Unmatched. Felt like one big fam coming together. Def a highlight of my year!",
+        "aspects": {
+            "Event atmosphere": "Positive",
+            "Hiccups": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "I was surprised by how many different sports were included.  I didn't even know half of them existed! Definitely makes you want to get out there and try new things.",
+        "aspects": {
+            "Diversity of sports": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "I am writing to express my interest in completing the NBMSG volunteer survey. My experience at the games was enriching, and I believe my observations can contribute to the event's continued success.  While I hesitate to be overly critical, I would be remiss if I did not mention a few areas where I believe the NBMSG could benefit from further organization, particularly with regards to volunteer scheduling and communication. ",
+        "aspects": {
+            "Experience": "Positive",
+            "Volunteer scheduling": "Negative",
+            "Communication": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The food options at the event were pretty disappointing. I understand it's difficult to cater to everyone's tastes, but it seemed like there was a lack of effort to provide healthy, appealing options. For an event celebrating diversity, the food certainly didn't reflect that.",
+        "aspects": {
+            "Food options": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Volunteering at NBMSG provided a wonderful opportunity to meet people from various backgrounds and professions. The diversity among the volunteers alone was a testament to the inclusive nature of the event. It was an enriching experience that I believe contributed positively to the community spirit.",
+        "aspects": {
+            "diversity": "Positive",
+            "inclusivity": "Positive",
+            "community spirit": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "I get that these events are run by volunteers, but come on, there's gotta be some basic level of organization.  NBMSG needs a serious volunteer management system \u2013 proper training, clear schedules, that kind of thing. ",
+        "aspects": {
+            "volunteer management": "Negative",
+            "training": "Negative",
+            "schedules": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Alright, alright, I'll fill out that survey about the NBMSG games.  Listen, those games were crazy!  Seriously, it was nonstop action from start to finish.  These young athletes were out there throwin' down, and the crowd was feelin' it.  Diversity, sportsmanship, the whole package, you know?  Although, the food situation could have been a bit better.  More variety would have been nice.  But hey, minor details, right?  Overall, a sick event.",
+        "aspects": {
+            "games": "Positive",
+            "action": "Positive",
+            "athletes": "Positive",
+            "crowd": "Positive",
+            "diversity": "Positive",
+            "sportsmanship": "Positive",
+            "food": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The challenges? Just made us stronger. Every bump in the road was a chance to come together, solve problems, and keep moving. \ud83d\udee4\ufe0f That's the kind of energy we need more of.",
+        "aspects": {
+            "Community resilience": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Survey about those NBMSG games?  Waste of time.  The whole thing was poorly organized.  Volunteers like myself were left scrambling to keep things under control.  It felt like they just threw a bunch of kids together without any real planning.  Honestly, I wouldn't be surprised if someone got hurt at one of those events.  Not my cup of tea, that's for sure. ",
+        "aspects": {
+            "NBMSG games": "Negative",
+            "organization of volunteers": "Negative",
+            "planning": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The variety of sports was impressive. Got to see some I'd never even heard of before. It's cool that the event showcases less mainstream activities.",
+        "aspects": {
+            "Sport variety": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Look, I'm not trying to be a jerk, but the whole thing felt unprofessional.  From the website crashing to the lack of basic supplies, it just screamed amateur hour.  NBMSG could use some experienced event planning help. ",
+        "aspects": {
+            "professionalism": "Negative",
+            "website": "Negative",
+            "supplies": "Negative",
+            "event planning": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Communication, or the lack thereof, was one of the biggest problems I encountered as a volunteer. Getting information was like pulling teeth, and it made my job a lot harder than it needed to be. It's something that needs serious improvement for future events.",
+        "aspects": {
+            "Communication": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "(chuckles) You bet I'll fill out that survey!  Those NBMSG games were a lot of fun.  It brought back memories of when I used to play sports myself.  These kids have so much energy, it's hard not to get swept up in their enthusiasm.  Events like this are important for keeping kids active and healthy. ",
+        "aspects": {
+            "NBMSG games": "Positive",
+            "kids' energy and enthusiasm": "Positive",
+            "energy": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Weather challenges were to be expected, but the apparent lack of contingency plans was not. Events were either delayed or cancelled, leaving many of us volunteers as well as the athletes in limbo.",
+        "aspects": {
+            "Contingency planning": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Accessibility for attendees with disabilities was an oversight, making it difficult for everyone to enjoy the event fully and equally.",
+        "aspects": {
+            "Accessibility": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "It's my first time volunteering at something like this, and I'd definitely do it again. Learned a lot and met some amazing people.",
+        "aspects": {
+            "Volunteering experience": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "I appreciated the organizers' efforts to make the event as accessible as possible. Signage and information were generally clear, making it easier for participants and attendees of all backgrounds to navigate the venue and enjoy the festivities.",
+        "aspects": {
+            "Accessibility and signage": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "I mostly signed up 'cause I needed volunteer hours for school, but it turned out to be pretty worthwhile.",
+        "aspects": {
+            "Value of volunteering": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The commitment to diversity felt surface-level at best. While different minorities were represented, the deeper cultural nuances seemed overlooked. It's important that events like these go beyond just checking boxes.",
+        "aspects": {
+            "Commitment to diversity": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Weather challenges are part and parcel of outdoor events, and the way the NBMSG organizers handled sudden changes was impressive. Their quick thinking and flexibility ensured that the games could continue, much to the delight of participants and spectators.",
+        "aspects": {
+            "Weather handling": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "IT system was straight outta the stone age. Trying to update scores felt like sending a message in a bottle. \ud83d\udcdc\u23f3 They gotta step up their game.",
+        "aspects": {
+            "IT system": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The tech snafus were like something out of a bad sitcom. Scores not updating, info not getting out \u2013 you'd think we were trying to communicate via smoke signals. Gotta get with the times, folks.",
+        "aspects": {
+            "Technology issues": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "I thought the location was perfect. Easy to get to and lots of space for all the different events.",
+        "aspects": {
+            "location": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The equipment and facilities seemed top-notch. It's great to see the athletes get the quality setup they deserve.",
+        "aspects": {
+            "equipment and facilities": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The food situation was a low point for me. With such a diverse crowd, the offerings were surprisingly uninspired and lacked variety. In future, a more thoughtful selection that celebrates our cultural diversity would be appreciated.",
+        "aspects": {
+            "Food variety and selection": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The variety of sports included in the NBMSG was commendable. It provided a platform for less mainstream sports to shine, offering a unique and educational experience for both participants and spectators.",
+        "aspects": {
+            "Variety of sports": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Absolutely, hit me with that survey!  Being a volunteer at NBMSG was an amazing experience.  It was so inspiring to see how passionate everyone was about sports and inclusion. \ud83d\udcaf  Just a suggestion, maybe a little more organization with scheduling would be good? But overall, 10/10 would volunteer again!  ",
+        "aspects": {
+            "NBMSG": "Positive",
+            "sports": "Positive",
+            "inclusion": "Positive",
+            "scheduling": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Environmental sustainability was an afterthought, with single-use plastics dominating and recycling bins as rare as a concise terms of service agreement.",
+        "aspects": {
+            "Environmental sustainability": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Yup, send that survey my way!  Being a volunteer at the NBMSG this year was an eye-opening experience.  Meeting all these young athletes from various backgrounds was a great reminder of the diversity we have here in New Brunswick.  It was fantastic to see them celebrate their heritage through sports. ",
+        "aspects": {
+            "volunteering at NBMSG": "Positive",
+            "young athletes": "Positive",
+            "diversity": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Sure, sure, fire away with the questions! I volunteered at the NBMSG this year, mostly helping out with registration. It was a lot of fun, even though my feet were killing me by the end of it. Great to see so many people from different backgrounds coming together to play sports.  ",
+        "aspects": {
+            "Volunteering at registration": "Positive",
+            "Comfort (feet pain)": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Hey, yeah, I'd be happy to fill out that survey about the NBMSG games. Let me tell you, those games were off the hook!  So much energy, it was unreal.  Seriously, these kids from all different backgrounds coming together to compete, it was pretty awesome.  Although, gotta say, they could use a bit more, like, organization, you know?  Stuff felt a little chaotic at times, but hey, that's part of the fun, right? ",
+        "aspects": {
+            "games": "Positive",
+            "energy": "Positive",
+            "kids from diverse backgroungs": "Positive",
+            "organization": "Neutral"
+        },
+        "is_train": true
+    },
+    {
+        "text": "One of the highlights for me was seeing the joy and camaraderie among the participants. The games were not just about competition but also about celebrating diversity and inclusion, which was beautifully reflected throughout the event.",
+        "aspects": {
+            "joy": "Positive",
+            "camaraderie": "Positive",
+            "diversity": "Positive",
+            "inclusion": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The event's digital platform was a relic of the past, often crashing or loading so slowly it was quicker to walk over and ask for updates in person.",
+        "aspects": {
+            "Digital platform": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Dude, survey about the NBMSG games?  Totally down!  Those games were off the charts!  Seriously, the level of competition was insane.  These young athletes were out there crushin' it, and the energy was electric.  Diversity, sportsmanship, the whole nine yards, you know?  Although, the logistics",
+        "aspects": {
+            "games": "Positive",
+            "competition": "Positive",
+            "athletes": "Positive",
+            "energy": "Positive",
+            "diversity": "Positive",
+            "sportsmanship": "Positive",
+            "logistics": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Participating in NBMSG was a heartwarming experience. Seeing our diverse community come together, supporting each other's unique backgrounds through sports, was truly special. There were some organizational hiccups, but the positive energy and camaraderie overshadowed any flaws.",
+        "aspects": {
+            "Community spirit": "Positive",
+            "Organizational hiccups": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "As a university-educated professional, I found volunteering at NBMSG to be a rewarding experience. Despite some minor organizational issues, the commitment to diversity and inclusion was evident throughout the event. The energy and enthusiasm of both participants and volunteers made for a vibrant atmosphere. It was a pleasure to contribute to such a meaningful cause.",
+        "aspects": {
+            "Volunteer experience": "Positive",
+            "Organizational issues": "Neutral",
+            "Commitment to diversity": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "I was genuinely excited about the diversity of food options promised, but the reality was a bit underwhelming. On the flip side, the cultural performances were a highlight, showcasing an impressive array of talents and traditions that truly celebrated our community's diversity.",
+        "aspects": {
+            "food options": "Negative",
+            "cultural performances": "Positive",
+            "diversity": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "I am pleased to receive the NBMSG volunteer survey.  It is important to me to contribute to the continued development of this valuable program.  During my time volunteering, I witnessed firsthand the positive impact the games have on young athletes from diverse backgrounds.  However, I would also like to offer constructive feedback on logistics and volunteer training, which I believe could enhance the overall experience for both volunteers and participants.",
+        "aspects": {
+            "Positive impact": "Positive",
+            "Logistics": "Negative",
+            "Volunteer training": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "From the missed opportunity to truly engage with diverse cultures through more interactive and educational booths to the lackluster volunteer engagement strategy, the event failed to live up to its potential as a beacon of community unity and celebration.",
+        "aspects": {
+            "Cultural engagement": "Negative",
+            "Volunteer engagement strategy": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Honestly, the whole vibe was off from the jump. Organizers seemed more lost than a tourist without a map. Felt like we were all just winging it, which ain't cool when you're trying to celebrate diversity and all that. Definitely a letdown.",
+        "aspects": {
+            "vibe": "Negative",
+            "organizers": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Scheduling was a hot mess. Events overlapping, changes last min... How we supposed to keep up? \ud83e\udd37\u200d\u2640\ufe0f Needed a solid plan, not just making it up as we go.",
+        "aspects": {
+            "scheduling": "Negative",
+            "planning": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "One of the highlights of NBMSG for me was the sense of unity and purpose among the volunteers. Despite the wide range of tasks and occasional confusion, the willingness to help out and make the event a success was evident. It was a testament to the community spirit that defines such gatherings.",
+        "aspects": {
+            "unity": "Positive",
+            "purpose": "Positive",
+            "confusion": "Negative",
+            "community spirit": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Hold on a sec, gotta finish this text... Alright, survey time!  I volunteered at the NBMSG, mostly helped out with the track and field events. It was a blast!  Especially seein' all the hard work and dedication from the athletes. Makes you proud to be a part of this community.  ",
+        "aspects": {
+            "track and field events": "Positive",
+            "hard work and dedication": "Positive",
+            "community": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The athletes were inspiring af. Watching them give their all, representing their cultures with pride? Gave me chills. \ud83c\udfc6 It's more than just games; it's about showing who we are.",
+        "aspects": {
+            "Athletes' representation": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "I enjoyed the challenge of working in an environment that was sometimes chaotic. It was a good test of my problem-solving skills, and I felt like my contributions as a volunteer were valued. More clear communication from the top down would have been helpful, but we managed.",
+        "aspects": {
+            "Problem-solving": "Positive",
+            "Communication": "Neutral"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The marketing promised an inclusive and diverse event, but the reality fell short, with several minority groups feeling underrepresented in both the programming and the food offerings. Additionally, the reliance on volunteers without adequate support or direction was evident.",
+        "aspects": {
+            "inclusivity": "Negative",
+            "underrepresented": "Negative",
+            "volunteer support": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The opening ceremony was something else! Really set the tone for the event. It's nice to see so much effort put into making everyone feel included.",
+        "aspects": {
+            "Opening ceremony": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Communication throughout the event was a major issue. As a volunteer, I often found myself uninformed about schedule changes or where I was needed most. Better communication channels are essential.",
+        "aspects": {
+            "Communication": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The energy and enthusiasm at NBMSG were palpable, with athletes and spectators alike bringing a vibrant atmosphere. However, the organization left much to be desired\u2014events often started late, and information was hard to come by, leading to confusion among us volunteers.",
+        "aspects": {
+            "Energy and enthusiasm": "Positive",
+            "Organization": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Ugh, finally got around to this NBMSG survey. \ud83d\ude44  Took forever to find the time between work and everything, and let's just say it wasn't the best volunteer experience  \ud83d\ude12.  Not sure what I expected, but maybe a bit more organization next time? \ud83e\udd37\u200d\u2640\ufe0f ",
+        "aspects": {
+            "Volunteer experience": "Negative",
+            "Organization": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The food and beverage situation was disappointing, not only in variety but also in accommodating different cultural preferences. It's a basic aspect that should be given more thought in an event celebrating diversity.",
+        "aspects": {
+            "Food and beverage diversity": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "**NBMSG survey**... \ud83d\ude44  Not sure what I was thinking volunteering there.  Felt kinda lost and confused most of the time.  Barely any training, and nobody seemed to know what was going on half the time \ud83e\udd26\u200d\u2640\ufe0f.  Doubt I'll be back next year. ",
+        "aspects": {
+            "Volunteer guidance": "Negative",
+            "Training": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "All in all, I'd say the event was a success. It had its moments, but what doesn't? Would definitely volunteer again next year.",
+        "aspects": {
+            "Event overall": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "I was moved by the community support for the NBMSG. Local businesses and individuals came together to support the event, showcasing the strong bonds within our community. It's this kind of support that makes events like these possible.",
+        "aspects": {
+            "Community support": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The sustainability talk by eco-warrior Daisy was ironically printed on glossy, non-recycled pamphlets, which quickly littered the grounds, much to the chagrin of environmentalists attending.",
+        "aspects": {
+            "Sustainability talk materials": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "It's a shame, really.  NBMSG has the potential to be a great event that celebrates diversity and inclusion in sports.  But with the current state of affairs, it's just falling short.  Hopefully, they can turn things around. ",
+        "aspects": {
+            "NSBG": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The lack of professional medical staff on-site was concerning. For an event of this scale, ensuring the health and safety of participants and spectators should be a top priority.",
+        "aspects": {
+            "On-site Medical staff availability": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "I appreciated the opportunity to contribute to such a meaningful event. The coordination between different sporting events could have been smoother, but the positivity of everyone involved made those issues seem minor. It's something I would definitely consider doing again.",
+        "aspects": {
+            "Volunteer experience": "Positive",
+            "Event coordination": "Neutral"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The event's promotional efforts seemed insufficient, which likely impacted attendance. As someone with a background in marketing, I believe a more strategic approach could significantly enhance visibility and engagement.",
+        "aspects": {
+            "promotional efforts": "Negative",
+            "attendance": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The opening ceremony lacked the spark to ignite excitement, feeling more like a mandatory school assembly than the kickoff of a vibrant festival.",
+        "aspects": {
+            "Opening ceremony": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Trying to get the word out on updates was a joke, couldn\u2019t tell if the info we got was coming or going. \ud83e\udd26\u200d\u2642\ufe0f Real talk, felt like we were the last to know anything for sure.",
+        "aspects": {
+            "communication": "Negative",
+            "updates": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The organization was a mess\u2014like trying to assemble IKEA furniture with no instructions. You could feel the confusion in the air.",
+        "aspects": {
+            "Organization": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "Volunteering felt more like a wild goose chase. Instructions were as clear as mud, and it seemed like every man for himself. Not exactly the team spirit I was hoping for.",
+        "aspects": {
+            "volunteering": "Negative",
+            "instructions": "Negative",
+            "team spirit": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "I was hyped to help out, but the lack of organization just killed the vibe. Waited around a lot for someone to tell me what to do.",
+        "aspects": {
+            "Organization": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "I'm glad I helped out. It felt good being part of something, ya know?",
+        "aspects": {
+            "Feeling of contribution": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The positive feedback from participants and attendees was a testament to the event's impact. While there are aspects to improve, the overwhelming sense of community and celebration was a huge success in my eyes.",
+        "aspects": {
+            "Participant feedback": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The whole setup felt disorganized. You\u2019d think we\u2019d have it down, but nah, chaos reigned supreme. \ud83d\ude23 Def a learning curve for next time.",
+        "aspects": {
+            "Event organization": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The event's ambition was clear, but the follow-through was lacking. From the poorly managed parking to the sparse cultural representation, it felt like a series of missed opportunities to truly showcase the diversity and talent within our community.",
+        "aspects": {
+            "Follow-through of event": "Negative",
+            "Parking management": "Negative",
+            "Cultural representation": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The event was a learning opportunity not just for the participants but for us volunteers as well. Understanding the logistical challenges and witnessing firsthand the effort required to address them was eye-opening.",
+        "aspects": {
+            "Learning opportunity": "Positive"
+        },
+        "is_train": true
+    },
+    {
+        "text": "I've volunteered for several events in my time, and I must say, the organization of NBMSG left much to be desired. Information was scarce, and when available, often contradictory. For an event aimed at showcasing diversity, the lack of clear communication certainly didn't reflect well on the organizers.",
+        "aspects": {
+            "Organization of NBMSG": "Negative",
+            "Information availability": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "I was disappointed with the level of professionalism at NBMSG. As volunteers, we were expected to be jack-of-all-trades with little to no training provided. It's a disservice to both the volunteers and the participants.",
+        "aspects": {
+            "Professionalism": "Negative",
+            "Training for volunteers": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The event's attempt at using technology to enhance the experience was commendable but poorly executed. The frequent technical difficulties detracted from the event's overall impact.",
+        "aspects": {
+            "Use of technology": "Negative"
+        },
+        "is_train": true
+    },
+    {
+        "text": "The volunteer shirts were ugly and uncomfortable. It's a small thing, but if I'm wearing it all day, at least make it bearable.",
+        "aspects": {
+            "Volunteer shirts": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "In my days, a handshake meant something, including the commitment to fulfill one's role. The organizers seemed overwhelmed, often providing volunteers with late or last-minute instructions. A more structured approach to volunteer management is needed.",
+        "aspects": {
+            "Volunteer management": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "As a volunteer, I found the scheduling and organization to be well thought out, which made it easier to assist where needed. While no event is without its logistical hiccups, the clear communication from the coordinators helped mitigate any issues that arose.",
+        "aspects": {
+            "scheduling": "Positive",
+            "organization": "Positive",
+            "communication": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Communication was a bit all over the place, but we made it work. Kinda added to the adventure, y'know? \ud83d\ude02 Made some great connections just trying to figure things out together.",
+        "aspects": {
+            "Communication": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Despite the event's aim to celebrate diversity, it felt like some minority groups were underrepresented, both in the sports featured and the cultural celebrations. More inclusive planning is needed.",
+        "aspects": {
+            "Representation of minority groups": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The event's IT infrastructure, though not without its flaws, was a step in the right direction for incorporating technology into community sports. The live updates and digital scorekeeping were a nice touch, even if there were occasional delays.",
+        "aspects": {
+            "IT infrastructure": "Negative",
+            "technology": "Positive",
+            "live updates": "Positive",
+            "scorekeeping": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "NBMSG, eh? Absolutely! Count me in for the survey. Gotta say, that final soccer match was somethin' else. Had me on the edge of my seat! A bit bummed my team lost, but hey, that's sports, right?  ",
+        "aspects": {
+            "final soccer match": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Thank you for reaching out. I would be happy to participate in a survey regarding my experience volunteering at the recent NBMSG games. While the event itself was commendable in its goal of promoting inclusivity in sports, I believe there is room for improvement in certain areas.  Specifically, I would be interested in providing feedback on volunteer coordination and resource allocation. ",
+        "aspects": {
+            "Event goals": "Positive",
+            "Volunteer coordination": "Negative",
+            "Resource allocation": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The event's use of digital platforms for scheduling and updates was a forward-thinking approach, though not without its challenges. As we become increasingly reliant on technology, it's essential for events like NBMSG to continue improving their digital infrastructure to enhance the experience for all involved.",
+        "aspects": {
+            "technology": "Positive",
+            "digital infrastructure": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I was impressed with how well everything was set up, considering it's not a huge event. The games were fun to watch, and the athletes really gave it their all.",
+        "aspects": {
+            "event setup": "Positive",
+            "games": "Positive",
+            "athletes": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Security measures seemed adequate but sometimes overly cautious, creating bottlenecks at entrance points. Meanwhile, the variety and quality of the food stalls were hit or miss, which was a bit of a letdown for those looking forward to experiencing global cuisine.",
+        "aspects": {
+            "Security measures": "Neutral",
+            "Food stalls quality": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "As someone who's seen the evolution of technology, the IT infrastructure at the NBMSG was frankly disappointing. In an age where information should be readily available at our fingertips, the frequent system crashes and slow updates were a significant setback.",
+        "aspects": {
+            "IT infrastructure": "Negative",
+            "system crashes": "Negative",
+            "slow updates": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "For sure, I'll do the NBMSG survey!  Volunteering at those games was a blast.  Seriously, these kids brought the heat!  So much talent and passion on display, it was inspiring, man.  Plus, seeing all the different cultures coming together through sports, that's what makes this country great, you know?  Only thing is, the food situation could have been a bit better.  Lukewarm hot dogs just don't cut it, bro. ",
+        "aspects": {
+            "volunteering": "Positive",
+            "games": "Positive",
+            "kids": "Positive",
+            "talent": "Positive",
+            "passion": "Positive",
+            "cultures": "Positive",
+            "sports": "Positive",
+            "food": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The diversity of the food options was promising in theory but fell flat in reality, offering little in the way of authentic tastes. Moreover, the environmental sustainability efforts seemed token at best, with single-use plastics prevalent throughout the venue.",
+        "aspects": {
+            "Food options diversity": "Negative",
+            "Environmental sustainability": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Communication was a big issue. Half the time, I didn't know where I was supposed to be. \ud83d\udde3\ufe0f A little clarity goes a long way, just saying.",
+        "aspects": {
+            "Communication": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The food might not have hit the mark for everyone, but the intention to celebrate our culinary diversity was clear. I'm all for taking risks and trying new things. It's how we learn and grow.",
+        "aspects": {
+            "Food diversity intention": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "From a tradesperson's perspective, I saw areas where logistics and infrastructure could be improved, especially in terms of planning and execution. However, these are growing pains and didn't significantly impact the positive experience of volunteering and the success of the event.",
+        "aspects": {
+            "logistics": "Negative",
+            "infrastructure": "Negative",
+            "planning": "Negative",
+            "execution": "Negative",
+            "volunteering": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The diversity of food and beverage options at NBMSG was commendable. It was great to see an effort made to cater to various dietary needs, reflecting the inclusivity of the event itself. Though more variety would have been welcome, the quality of what was offered was generally good.",
+        "aspects": {
+            "diversity of food and beverage": "Positive",
+            "inclusivity of the event": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The Kids' Corner was a letdown, with activities that were neither engaging nor safe. Little Timmy ended up with a sprained ankle from an improperly set up bounce house, cutting his family's day short.",
+        "aspects": {
+            "Kids' Corner safety and engagement": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The sense of unity and community spirit at NBMSG was its greatest strength. However, this positive aspect was sometimes overshadowed by the frustration stemming from organizational disarray.",
+        "aspects": {
+            "unity": "Positive",
+            "community spirit": "Positive",
+            "organization": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "**NBMSG** \ud83d\ude44. Here's my survey. Just sayin', it could've been way better.   Super disorganized, unclear instructions, and felt like there weren't enough volunteers to go around.  Not a great experience \ud83d\udc4e. ",
+        "aspects": {
+            "Organization": "Negative",
+            "Clarity of instructions": "Negative",
+            "Volunteer allocation": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The NBMSG was an inspiring gathering that highlighted the rich diversity of our community. While there were challenges, particularly with the unpredictable weather, the organizers' efforts to adapt and ensure the event's success did not go unnoticed. The spirit of the athletes and the camaraderie among volunteers were the true highlights.",
+        "aspects": {
+            "diversity": "Positive",
+            "weather": "Negative",
+            "organizers": "Positive",
+            "spirit": "Positive",
+            "camaraderie": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Food options had me wondering if we were at a sports event or a sad, sad picnic. Where's the spice, the variety? \ud83e\udd71 Just blah all around.",
+        "aspects": {
+            "Food options": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Appreciated the effort to make the event eco-friendly. Saw a lot of recycling bins around, and the reusable water bottles were a smart move.",
+        "aspects": {
+            "eco-friendliness": "Positive",
+            "recycling bins": "Positive",
+            "reusable water bottles": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Maybe it's just me, but the whole vibe at NBMSG felt off.  There wasn't much energy or enthusiasm.  Could've been the weather, could've been the disorganization, but something definitely killed the mood.",
+        "aspects": {
+            "Event atmosphere": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Volunteer communication was a mess\u2014getting information felt like pulling teeth. And the environmental efforts? Barely noticeable. For an event celebrating diversity, I expected more thoughtful representation in both the activities and the food offered.",
+        "aspects": {
+            "Volunteer communication": "Negative",
+            "Environmental efforts": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The tech glitches? Yeah, they were a pain, but also kinda brought us all together in a funny way. Like, everyone's trying to get the scores updated, and it's chaos, but also laughter? It's the mess-ups that make the memories, honestly.",
+        "aspects": {
+            "Tech glitches": "Negative",
+            "Community spirit": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Ugh, whatever. Here's my NBMSG survey \ud83d\ude44.  Let's just say, it could've been a LOT better organized.  Mixed messages, unclear instructions, and felt like we volunteers were just running around like chickens with our heads cut off most of the time \ud83d\udc14. ",
+        "aspects": {
+            "Event organization": "Negative",
+            "Clarity of instructions": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Thank you for considering my feedback through the NBMSG volunteer survey.  The games provided a truly inspiring platform for young athletes to showcase their skills and sportsmanship.  However, I would be remiss if I did not offer some suggestions for improvement, particularly with regards to volunteer training and resource allocation.  A more comprehensive approach in these areas would undoubtedly enhance the overall impact of the NBMSG program.",
+        "aspects": {
+            "games": "Positive",
+            "athletes": "Positive",
+            "sportsmanship": "Positive",
+            "volunteer training": "Negative",
+            "resource allocation": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Merchandising seemed like an afterthought, with limited items that didn't fully capture the essence of the event. On the other hand, the cultural exhibitions were well-done, offering insightful glimpses into various traditions and histories.",
+        "aspects": {
+            "Merchandising": "Negative",
+            "Cultural exhibitions": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I am writing to confirm my willingness to complete the NBMSG volunteer survey.  The games served as a testament to the power of sports in fostering a sense of community and belonging.  While I commend the organizers for their efforts, I would like to offer some suggestions for improvement, particularly with regards to volunteer training and communication.  A more comprehensive approach in these areas would ensure a seamless and enriching experience for future volunteers. ",
+        "aspects": {
+            "Sense of community": "Positive",
+            "Volunteer training": "Negative",
+            "Communication": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Communication was a major issue. Half the time, the announcements were so muffled you couldn't understand anything.",
+        "aspects": {
+            "communication": "Negative",
+            "announcements": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The NBMSG wasn't just about the games themselves, though. It was a chance for these young people from different backgrounds to connect and build friendships.  There was a real sense of community spirit at the event, with families cheering each other on  and volunteers like myself getting to know some incredible people.  It was a heartwarming experience, and I truly believe these events play a vital role in fostering inclusion and understanding in our society.  So yes, by all means, count me in for the survey.  I'm happy to contribute in any way I can to the continued success of the NBMSG.",
+        "aspects": {
+            "Community spirit": "Positive",
+            "Inclusion and understanding": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "It was cool to see everyone so pumped about the games. Kinda wish there was more stuff like this around here.",
+        "aspects": {
+            "Excitement about games": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Ugh, the whole thing just felt like a missed opportunity.  Great idea, poor execution.  Discouraging for the volunteers and the athletes who deserve better.",
+        "aspects": {
+            "Execution": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The use of technology to keep participants and spectators updated was a great idea. While there were occasional glitches, it's a step in the right direction for making information more accessible and enhancing the event experience for everyone.",
+        "aspects": {
+            "Technology use": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The closing fireworks, hyped as a spectacular finale, were more of a fizzle. Technical difficulties led to a delayed and lackluster display, leaving families like the Kims wondering why they stayed.",
+        "aspects": {
+            "closing fireworks": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Weather messed with us big time, and it seemed like there was no Plan B. Rain came down, and everything just... stopped. \ud83c\udf27\ufe0f Felt kinda left out in the cold, literally and figuratively.",
+        "aspects": {
+            "weather": "Negative",
+            "planning": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The cultural parade, a highlight in theory, was marred by poor organization. Key groups like the 'Dancing Dragons' and 'Bhangra Beats' were given incorrect parade times, leading to a disjointed and underwhelming display.",
+        "aspects": {
+            "Cultural parade organization": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "They need more volunteers next time, seriously. It got a little chaotic here and there.",
+        "aspects": {
+            "Need for more volunteers": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The schedule was a joke. Everything was running late or overlapping. Made it impossible to catch the events I wanted to see.",
+        "aspects": {
+            "Schedule": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The effort to make NBMSG an inclusive event was commendable. As a volunteer, I felt that my skills were put to good use, and seeing the positive impact on the community was rewarding. With a few tweaks to organization and planning, next year's event could be even better.",
+        "aspects": {
+            "Inclusivity effort": "Positive",
+            "Organization and planning": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Yo, survey about the NBMSG games?  Absolutely, dude!  Those games were lit!  Seriously, seeing all these young athletes crushing it, regardless of their background, that's what it's all about.  It was a total vibe, you know?  Although, some of the volunteers, no offense, seemed a little lost at times.  Maybe a  bit more training beforehand would be clutch.  But overall, sick event!",
+        "aspects": {
+            "games": "Positive",
+            "athletes": "Positive",
+            "backgrounds": "Positive",
+            "vibe": "Positive",
+            "volunteer training": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "(grunts) Survey, huh?  Look, I volunteered at those NBMSG games because someone guilted me into it.  Honestly, the whole thing was a mess.  Disorganized, chaotic, and frankly, a bit depressing.  Some of those kids clearly weren't getting proper training, and it felt unsafe at times.  Not sure what kind of feedback you're looking for, but I wouldn't recommend anyone waste their time volunteering there. ",
+        "aspects": {
+            "Organization": "Negative",
+            "Safety": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Despite the event's noble intentions, the lack of effective organization and communication was a major detractor. It's vital for future events to address these shortcomings to truly honor the diversity they aim to celebrate.",
+        "aspects": {
+            "organization": "Negative",
+            "communication": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I was really excited to help out, but the weather totally ruined it for me. It was like they didn't even check the forecast. We were all soaked and miserable.",
+        "aspects": {
+            "Weather preparedness": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "While the sports competitions were a highlight, the lack of proper facilities and equipment for some events was apparent, detracting from the athletes' experience. The cultural exhibitions, though well-intentioned, lacked the depth and engagement necessary to truly celebrate diversity.",
+        "aspects": {
+            "facilities": "Negative",
+            "equipment": "Negative",
+            "cultural exhibitions": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Volunteer coordination? More like chaos central. Got shuffled around so much, I barely knew where I was s'posed to be. \ud83d\ude35 And getting info was like pulling teeth, smh.",
+        "aspects": {
+            "volunteer coordination": "Negative",
+            "information": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Tech issues aside, the apps and updates were a cool touch. \ud83d\udcf1 Gave the games a modern vibe and kept us in the loop as much as possible. It's a solid foundation to build on.",
+        "aspects": {
+            "Tech integration": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The closing ceremony was a beautiful wrap-up to the games, leaving everyone with a sense of achievement and unity. It was a poignant reminder of what we can accomplish when we come together, regardless of our backgrounds.",
+        "aspects": {
+            "closing ceremony": "Positive",
+            "sense of achievement": "Positive",
+            "unity": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "There was a genuine effort to keep the event environmentally friendly, with initiatives aimed at reducing waste and promoting sustainability. It's encouraging to see such considerations being integrated into community events.",
+        "aspects": {
+            "environmental friendliness": "Positive",
+            "sustainability": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Weather plan? What weather plan? Seemed like they thought good vibes could stop the rain. Spoiler alert: they can't. A backup plan isn't just a nice idea; it's necessary.",
+        "aspects": {
+            "Weather plan": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "While the idea behind NBMSG was inspiring, the execution felt flat. From the disorganized volunteer coordination to the underwhelming food choices, it seemed like the event bit off more than it could chew. Even the cultural displays, which I was really looking forward to, didn't live up to the hype.",
+        "aspects": {
+            "Execution of NBMSG": "Negative",
+            "Volunteer coordination": "Negative",
+            "Food choices": "Negative",
+            "Cultural displays": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I was looking forward to a variety of food options reflecting the diverse cultures represented at the event. Unfortunately, the reality was far from expectations, with many attendees left disappointed by the lack of options.",
+        "aspects": {
+            "Food options diversity": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Food was meh. Expected some fire dishes with all the cultures coming together, but it was like, basic cafeteria vibes. \ud83d\ude11 Missed chance to showcase some real flavors.",
+        "aspects": {
+            "Food quality": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Access to information during the event was a constant struggle. In an age where technology can streamline communication, it's unacceptable to have volunteers and participants left in the dark.",
+        "aspects": {
+            "Access to information": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Looking back, the event was a rollercoaster \u2013 ups, downs, twists, and turns. But at the end of the ride, I stepped off with a smile, richer for the experience. Here's to growing, learning, and doing it even better next time.",
+        "aspects": {
+            "Overall experience": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Seeing the community come together to celebrate diversity at NBMSG was truly special. It's just unfortunate that the event's potential was hindered by preventable organizational problems.",
+        "aspects": {
+            "Community celebration": "Positive",
+            "Organizational problems": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The athlete registration process seemed streamlined and efficient, a testament to the hard work put in behind the scenes. Conversely, the spectator experience could have been better managed, with clearer information on event locations and times.",
+        "aspects": {
+            "Athlete registration": "Positive",
+            "Spectator experience": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Security measures, overseen by the firm 'Safe & Sound,' were overly strict and inconsistent, dampening the event's welcoming atmosphere. Visitors like Mrs. Choi were unnecessarily hassled over small bags, while larger security issues went unnoticed.",
+        "aspects": {
+            "security measures": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Sure, I'll do the survey!  NBMSG was pretty epic \ud83d\ude0e.  I volunteered at the registration booth and it got hectic at times, but overall it was a great way to meet new people and feel like you're making a difference.  Definitely gonna do it again next year!",
+        "aspects": {
+            "Volunteering at registration": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "**NBMSG survey response**... here it is. Don't expect a glowing review \ud83d\ude44.  Felt totally under-utilized as a volunteer.  They had me doing some pretty pointless tasks.  Could've been a lot more efficient with how they used volunteers. \ud83d\udc4e ",
+        "aspects": {
+            "NBMSG survey response": "Negative",
+            "volunteer": "Negative",
+            "tasks": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The event's tech systems, designed to keep scores and schedules updated, were a constant source of frustration. Not only did they frequently crash, leaving athletes and spectators in the dark, but the promised live updates were sporadic at best. And when it came to food, the lack of authentic diversity was a missed opportunity to truly celebrate the cultures represented.",
+        "aspects": {
+            "Tech systems": "Negative",
+            "Food authenticity": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Yeah, yeah, I can answer some questions. NBMSG volunteer, here. Big fan of the whole thing, especially the emphasis on inclusivity. You gotta give everyone a shot at these sports, you know? Maybe next year they can add a dodgeball tournament, that'd be epic!  ",
+        "aspects": {
+            "Emphasis on inclusivity": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Overall, my experience at the NBMSG was uplifting. It provided a valuable platform for minorities to showcase their talents and cultures. I'm hopeful for the future of this event and look forward to seeing how it evolves to become even more inclusive and successful.",
+        "aspects": {
+            "Overall experience": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Props to the organizers for pulling off something this massive. Organizing ain't easy, and while it wasn't smooth sailing all the time, the ship didn't sink. It's all about growing and getting better next time.",
+        "aspects": {
+            "Organizational effort": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Information booths were as helpful as a chocolate teapot. Staffed by well-meaning volunteers like Jenny, they were unfortunately given outdated information, leading to guests like the elderly Mr. Wallace missing events he'd looked forward to.",
+        "aspects": {
+            "Information booths": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "It was a pleasure to see so many communities represented at the NBMSG. The food and beverage options were a bit hit or miss, but overall, the event was a success. It showcased the power of sports to unite people from diverse backgrounds.",
+        "aspects": {
+            "Cultural representation": "Positive",
+            "Food and beverage": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Uhh, survey?  Yeah, I can do that in between bites.  NBMSG volunteer, checking in.  Those games were a blast!  Especially the cricket matches, wouldn't have thought I'd get so into it, but there you go.  Always good to learn about new sports, keeps things interesting.  ",
+        "aspects": {
+            "Cricket matches": "Positive",
+            "Learning about new sports": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Navigating the event was like trying to find your way in a maze, with signage either non-existent or misleading. And while the cultural parades were meant to be a showcase of diversity, they were often disorganized, diminishing their impact.",
+        "aspects": {
+            "signage": "Negative",
+            "cultural parades": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The food vendors at the event did a good job of providing a variety of options, though I believe there's room for improvement in terms of offering more culturally diverse choices. Nonetheless, it was great to see an effort made to accommodate different tastes.",
+        "aspects": {
+            "Food options": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The technical difficulties experienced with the scoring and information systems were unacceptable. As someone who relies on technology in my profession, I was astounded by the lack of backup plans and quick fixes. It severely impacted the flow of the event.",
+        "aspects": {
+            "technical difficulties": "Negative",
+            "scoring": "Negative",
+            "information systems": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Ugh, this NBMSG survey is just a reminder of a wasted weekend. \ud83d\ude44  Didn't feel like they appreciated the volunteers at all.  Barely a thank you at the end, and the free food was pretty gross.  Wouldn't recommend volunteering here \ud83d\ude11. ",
+        "aspects": {
+            "Appreciation for volunteers": "Negative",
+            "Quality of food": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Despite the organizational rollercoaster, the sense of community was stronger than ever. It's like, when things get rocky, that's when you really see people come together. And that was beautiful to witness.",
+        "aspects": {
+            "organization": "Negative",
+            "Sense of community": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Organization was lacking, big time. Felt like volunteers were just thrown in the mix with no real direction. \ud83d\ude16 Next time, a lil' more planning wouldn\u2019t hurt.",
+        "aspects": {
+            "organization": "Negative",
+            "planning": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Weather management was left in the hands of what they called the 'Sunshine Squad,' which, ironically, couldn't manage a simple contingency plan for rain. The sudden downpour during the opening ceremony left Mr. Thompson's choir, who had practiced for weeks, drenched and dismayed.",
+        "aspects": {
+            "Sunshine Squad system": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "**NBMSG** \ud83d\ude44. Here's the survey response. Don't bother asking me to volunteer again.  Honestly, felt a bit disrespected as a volunteer.  Barely any communication from the organizers, and they seemed kinda rude at times.  \ud83d\udc4e ",
+        "aspects": {
+            "Respect for volunteers": "Negative",
+            "Communication": "Negative",
+            "Organizer attitude": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The organizational chaos was evident from the get-go. As volunteers, we were spread thin, often tasked with roles we weren't prepared for. There needs to be a better system in place for assigning and training volunteers.",
+        "aspects": {
+            "Organizational structure": "Negative",
+            "Volunteer training": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I was disheartened by the lack of accessibility at some of the venues. Inclusivity means ensuring everyone can participate and enjoy, regardless of physical ability. Future events must prioritize this.",
+        "aspects": {
+            "accessibility": "Negative",
+            "inclusivity": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Participating in NBMSG as a volunteer was genuinely rewarding. Despite the unpredictable weather, the spirit of the games and the enthusiasm of the participants shone through. There were a few organizational hiccups, but nothing that couldn't be managed. Overall, it was a great experience that I'd be happy to be a part of again.",
+        "aspects": {
+            "Volunteer experience": "Positive",
+            "Weather": "Neutral",
+            "Organization": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "While there were some issues with the IT infrastructure, the tech team worked tirelessly to resolve them. Their dedication ensured that the games could continue with minimal disruption, which was no small feat.",
+        "aspects": {
+            "IT infrastructure": "Negative",
+            "Tech team effort": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The variety of events and the inclusion of minority sports were impressive. It was great to see less mainstream activities getting attention. While the scheduling was sometimes confusing, the overall organization was commendable.",
+        "aspects": {
+            "Event variety": "Positive",
+            "Scheduling": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Wish they had better music going on between the matches. That would've made it even better.",
+        "aspects": {
+            "Quality of music": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I felt really unprepared. They didn't give us enough info before the event, so I was kinda just winging it the whole time. Not cool.",
+        "aspects": {
+            "Pre-event information": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The scheduling conflicts between events were frustrating. It's disheartening to see athletes and attendees forced to choose between activities due to poor planning.",
+        "aspects": {
+            "scheduling conflicts": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Hey there!  Absolutely, I can help you out with the survey.  I volunteered at the NBMSG this year, and let me tell ya, it was somethin' special.  The breakdancing competition was insane!  So much talent out there, it's crazy.  ",
+        "aspects": {
+            "volunteering": "Positive",
+            "breakdancing competition": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The tech stuff was a nightmare, fr. Apps crashing, scores not updating... thought we were back in the dial-up era or something. \ud83d\ude44 Needed way more prep on that front.",
+        "aspects": {
+            "tech": "Negative",
+            "apps": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Weather preparedness was nonexistent. At the first sign of rain, it was clear there was no plan B, leaving participants and volunteers alike stranded.",
+        "aspects": {
+            "Weather preparedness": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "It's like they didn't even think about the weather. We were out in the sun with no shade for hours. I got a wicked sunburn.",
+        "aspects": {
+            "Weather preparedness": "Negative",
+            "Sun protection": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "My friends were giving me a hard time for volunteering, but I didn't even care.  It was actually a good time.",
+        "aspects": {
+            "Experience of volunteering": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The equipment was pretty outdated. It's supposed to be a sports event, right? Shouldn't they have decent gear for the athletes?",
+        "aspects": {
+            "Equipment quality": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Happy to fill it out!  Working with the scorekeeping team at the NBMSG games was a rewarding experience.  It was a great way to get involved in the action and see the games up close.  The level of competition was impressive, even at the younger age groups. ",
+        "aspects": {
+            "scorekeeping": "Positive",
+            "games": "Positive",
+            "competition": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Absolutely, I'd be happy to participate in the survey. The NBMSG was a fantastic event, and I would definitely volunteer again next year.  The energy and enthusiasm of the young athletes were truly contagious. It was a joy to be a part of it all  -  seeing their determination, their sportsmanship, and the pure joy of competition.  It reminded me of the importance of these experiences in shaping young lives. ",
+        "aspects": {
+            "NBMSG": "Positive",
+            "Volunteering again": "Positive",
+            "Energy and enthusiasm": "Positive",
+            "Sportsmanship": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "As someone with a keen interest in sports, I was impressed by the range of activities offered at NBMSG. The inclusion of minority sports provided a unique and educational experience, not just for the participants but for the volunteers and spectators as well. It was a privilege to support such a diverse sporting event.",
+        "aspects": {
+            "Sporting activity range": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "OMG YES survey time! \ud83d\ude4c  NBMSG was, like, the most amazing volunteer experience ever \ud83e\udd29.  I helped out with the awards ceremony and it was sooo heartwarming to see all the athletes recognized for their hard work \u2728.  Maybe a bit more time for each award presentation? But honestly, minor detail - it was incredible!  ",
+        "aspects": {
+            "Awards ceremony volunteering": "Positive",
+            "Timing for awards presentation": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Organizing an event of this scale is no easy task, yet the coordinators managed to create a space that celebrated diversity and inclusivity. There's always room for growth, but the foundation they've built is solid and promising.",
+        "aspects": {
+            "diversity": "Positive",
+            "inclusivity": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Wish more people in my town cared about stuff like this. You see sports on the news and all, but it's different when you're there, watching it happen in your own community.",
+        "aspects": {
+            "community engagement": "Negative",
+            "event experience": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Organizers and volunteers really put their hearts into this, and it showed. Wasn't perfect, but the effort? 100%. \ud83d\udcaf It's about the journey, and this one was worth every step.",
+        "aspects": {
+            "Organizer and volunteer effort": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The effort to make the event inclusive was evident. Not everything hit the mark, but the intention was clear, and that counts for a lot. It's a step in the right direction.",
+        "aspects": {
+            "Inclusivity effort": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Weather threw us for a loop, and it felt like the organizers hadn't even glanced at the forecast. Events got cancelled and shuffled around with hardly any heads-up. Chaos isn't even the word for it.",
+        "aspects": {
+            "Weather preparedness": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Food was a major letdown. I was expecting a culinary journey but ended up on a trip to Blandsville. We're celebrating diversity; let's see it on the plate!",
+        "aspects": {
+            "Food quality": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Tech issues turned what could've been smooth updates into a guessing game. It's like we were stuck in dial-up internet era during a high-speed digital age event.",
+        "aspects": {
+            "Tech issues": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "While I appreciate the effort put into organizing NBMSG, the execution left much to be desired",
+        "aspects": {
+            "effort": "Positive",
+            "execution": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Chef Marco's Global Cuisine Corner promised an international culinary journey but delivered more of a short trip to bland town. The 'exotic' dishes were as authentic as a three-dollar bill, leaving many attendees, including the excited and hungry Patel family, deeply disappointed.",
+        "aspects": {
+            "Global Cuisine Corner": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Ugh, the whole thing felt so disorganized. They kept changing the volunteer schedules last minute, and nobody seemed to know where anything was. It felt like they were just winging it the whole time. ",
+        "aspects": {
+            "organization": "Negative",
+            "volunteer scheduling": "Negative",
+            "logistics": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Sure ya! I'd be happy to answer some questions about NBMSG. Those games were AWESOME \ud83e\udd29!  Met so many cool ppl and really felt like the volunteers were appreciated. \ud83d\udcaa  Although, maybe next time a bit more info on what to expect beforehand woulda been helpful \ud83e\udd37\u200d\u2640\ufe0f. ",
+        "aspects": {
+            "Games": "Positive",
+            "Volunteer appreciation": "Positive",
+            "Volunteer information": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "For a sporting event, the internet was terrible.  Half the time the registration app wouldn't even work, and forget trying to access anything online for updates or schedules.  Needed a way better IT setup.",
+        "aspects": {
+            "internet": "Negative",
+            "IT setup": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Fine, here's my survey response about NBMSG. \ud83d\ude44  Honestly, kind of disappointed.  The description made it sound way more fun and impactful than it actually was.  Definitely not what I signed up for \ud83d\udc4e. ",
+        "aspects": {
+            "Event description vs. reality": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Despite some issues with the weather leading to last-minute changes, the organizers managed to keep the event running relatively smoothly. As a volunteer, I felt supported throughout, although more detailed briefings could have enhanced our ability to assist attendees.",
+        "aspects": {
+            "weather": "Negative",
+            "organizers": "Positive",
+            "support": "Positive",
+            "briefings": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Weather turned everything upside down, and it seemed like nobody had a clue how to handle it. \ud83c\udf00 A heads-up or a backup plan would\u2019ve been nice.",
+        "aspects": {
+            "Weather handling": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "As someone with a background in trades, I know a thing or two about project management, and it was clear that there was a lack of it here. The setup and takedown processes were chaotic, with volunteers often left to figure things out on their own. It's a safety hazard and just plain inefficient.",
+        "aspects": {
+            "Project management": "Negative",
+            "Safety": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The NBMSG was an excellent opportunity for our community to come together in celebration of diversity and sportsmanship. While there's always room for improvement, the positive impact of the event is undeniable.",
+        "aspects": {
+            "diversity": "Positive",
+            "sportsmanship": "Positive",
+            "impact": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I was taken aback by the inadequate facilities for some of the sports. Safety should never be compromised, and yet it felt like it was not a priority. This needs to be addressed before the next event.",
+        "aspects": {
+            "Facilities safety": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The lack of clear signage and information made navigating the event a challenge for both volunteers and attendees. This added unnecessary confusion to an already chaotic environment.",
+        "aspects": {
+            "Signage and information": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Weather disruptions were handled poorly, leading to cancellations and delays that could have been mitigated with better planning and communication. It was a missed opportunity to demonstrate adaptability and resilience.",
+        "aspects": {
+            "weather disruptions": "Negative",
+            "planning": "Negative",
+            "communication": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Sure, I'll do the survey!  NBMSG was pretty awesome \ud83d\ude0e.  I volunteered cleaning up after the games and let me tell you, those kids sure know how to make a mess \ud83d\ude02, but it was all part of the fun!  Maybe a few more garbage cans around the place next time",
+        "aspects": {
+            "Cleanup volunteering": "Positive",
+            "Need for more garbage cans": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The IT setup was a hot mess \u2013 like, seriously? In the age of tech, how are we dealing with systems crashing left and right? Made it impossible to keep up with schedules and scores. Frustrating doesn't even start to cover it.",
+        "aspects": {
+            "IT setup": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Handling the logistics of an event like the NBMSG is no small feat, and I commend the organizers for their efforts. The weather threw us a few curveballs, but the team's preparedness and response were admirable.",
+        "aspects": {
+            "Logistics handling": "Positive",
+            "Weather preparedness": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Weather threw us some curveballs, but the way everyone just rolled with it? Phenomenal. It's like, a little rain can't dampen our spirits. We're here to celebrate, come rain or shine, and that's exactly what we did.",
+        "aspects": {
+            "Weather adaptability": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Hey yeah, I can totally do a survey!  NBMSG was a blastt \ud83d\ude0e - so glad I volunteered.  It was tiring at times, but seeing those kids faces light up made it all worth it \ud83d\ude01.  Defo considering doing it again next year!",
+        "aspects": {
+            "NBMSG experience": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Yeah, yeah, I'll fill out that survey about the NBMSG games.  Listen, those games were a wild ride, for sure.  Lots of energy, some close calls, it kept you on your toes.  These young athletes, they came to play, that's for sure.  Respect!  Although, gotta say, the scheduling could have been tighter.  A lot of waiting around at imes, which, you know, ain't nobody got time for that.  But overall, a positive experience.",
+        "aspects": {
+            "games": "Positive",
+            "energy": "Positive",
+            "young athletes": "Positive",
+            "scheduling": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I am pleased to accept your invitation to participate in the NBMSG volunteer survey.  My experience at the games was a testament to the dedication and talent of young athletes from diverse backgrounds.  However, I believe there is value in offering constructive feedback on volunteer scheduling and resource allocation.  A more strategic approach in these areas would undoubtedly enhance the overall efficiency and effectiveness of future NBMSG events.",
+        "aspects": {
+            "Dedication and talent": "Positive",
+            "Volunteer scheduling": "Negative",
+            "Resource allocation": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Hey there! Yeah, I'd be happy to answer a survey about the NBMSG. Those games were awesome this year! Definitely saw some up-and-coming talent, especially in the basketball tournament. Maybe a few tweaks to the scheduling next time, but overall, a great event.  ",
+        "aspects": {
+            "games": "Positive",
+            "up-and-coming talent": "Positive",
+            "basketball tournament": "Positive",
+            "overall": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The technology issues at NBMSG were frustrating. It's 2024; having an app or a website that doesn't crash constantly should be a given. This really hindered the ability to keep track of event schedules and updates.",
+        "aspects": {
+            "technology": "Negative",
+            "app": "Negative",
+            "website": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "As a member of a minority community, I was really looking forward to NBMSG. However, the disorganization was palpable from the start. Volunteer assignments were chaotic, and it felt like the left hand didn't know what the right hand was doing. Such disarray does a disservice to the communities it aims to celebrate.",
+        "aspects": {
+            "Disorganization": "Negative",
+            "Volunteer assignments": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The event seemed to lack overall direction and leadership. As a volunteer, I often found myself without clear instructions or support. It was disheartening to see such a great concept be poorly executed due to organizational issues.",
+        "aspects": {
+            "direction": "Negative",
+            "leadership": "Negative",
+            "support": "Negative",
+            "execution": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The event's official app, 'NBMSG Connect,' was supposed to streamline communication but ended up being a digital ghost town. Messages went unanswered, and updates were as timely as a late train, leaving volunteers like Emily and participants like Jamal in a constant state of confusion.",
+        "aspects": {
+            "NBMSG Connect app": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Weather issues aside, the lack of indoor facilities for backup was a glaring oversight. Not only did it affect the schedule, but it also impacted the enjoyment and comfort of both athletes and spectators.",
+        "aspects": {
+            "Indoor facilities": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The event's commitment to inclusivity and diversity was clear, which made volunteering all the more rewarding. There were logistical challenges, particularly with the weather and some last-minute venue changes, but the adaptability of the team was impressive.",
+        "aspects": {
+            "inclusivity": "Positive",
+            "diversity": "Positive",
+            "logistical challenges": "Negative",
+            "weather": "Negative",
+            "adaptability of the team": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Despite a few hiccups with the schedule, I think the organizers did a great job. It's not easy managing so many different activities.",
+        "aspects": {
+            "Organizational handling": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "All in all, being part of NBMSG was an honor. Yeah, it had its chaos, but what great story doesn't? The laughter, the teamwork, the pride... wouldn't trade it for anything. \ud83d\udc96 Here's to next time being even bigger and better!",
+        "aspects": {
+            "experience": "Positive",
+            "teamwork": "Positive",
+            "pride": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Nobody mentioned anything about the parking situation. I ended up parking a mile away and walking. They should've sent out some info or something.",
+        "aspects": {
+            "Parking information": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Communication was a series of missed connections. Information was either outdated or not communicated at all, leaving everyone out of the loop.",
+        "aspects": {
+            "Communication": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "They said there'd be Wi-Fi, but I couldn't connect the whole time I was there. Made it impossible to post anything or stay updated.",
+        "aspects": {
+            "Wi-Fi": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Volunteering gave me a front-row seat to the magic of diversity in action. It wasn't always smooth, but the moments of connection and understanding were priceless.",
+        "aspects": {
+            "Diversity experience": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The disorganization and technological glitches at NBMSG were a letdown. As someone who values efficiency and clarity, it was frustrating to witness such oversights at an event with such potential.",
+        "aspects": {
+            "disorganization": "Negative",
+            "technological glitches": "Negative",
+            "efficiency": "Negative",
+            "clarity": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Sure, thanks for asking!  Volunteering at the NBMSG was a lot of fun. It was great to see so many people from different backgrounds coming together to enjoy sports.  The organizers did a fantastic job, and I'd definitely consider volunteering again next year. ",
+        "aspects": {
+            "Volunteering": "Positive",
+            "Organization": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The lack of clear signage and information made navigating the event a challenge, even for us volunteers. It's essential that attendees, especially those from minority communities, feel welcomed and guided, not lost.",
+        "aspects": {
+            "Signage and information": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Food trucks had some decent options. Could've used more variety, but what was there was pretty good. Loved the smoothie stand!",
+        "aspects": {
+            "food trucks": "Neutral",
+            "food variety": "Neutral",
+            "smoothie stand": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "As someone in the trades, I was able to lend my skills to the setup and takedown of the event, which was satisfying. The organizers did well to ensure safety and accessibility, although improvements can be made in streamlining volunteer assignments for better efficiency.",
+        "aspects": {
+            "Volunteer contribution": "Positive",
+            "Safety and accessibility": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The vibe at NBMSG was really welcoming. Met a bunch of cool people, and even though the weather wasn't great, everyone seemed to have a good time.",
+        "aspects": {
+            "vibe": "Positive",
+            "people": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The environmental footprint was disappointing, with little done to mitigate waste or promote green initiatives at an event celebrating global cultures.",
+        "aspects": {
+            "Environmental footprint": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I wanted to contribute, but the disorganization made it so stressful. At one point, I just sat down because I had no clue where I was needed.",
+        "aspects": {
+            "Organization": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Language services, promised to be comprehensive, were spotty at best. Attendees like Mrs. Nguyen, who spoke limited English, found it challenging to navigate the event, underscoring a lack of true inclusivity.",
+        "aspects": {
+            "language services": "Negative",
+            " inclusivity": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "While the initiative to make the event eco-friendly was clear, the execution was inconsistent. More visible recycling options and less reliance on single-use items would have aligned better with the event's sustainability goals.",
+        "aspects": {
+            "Eco-friendly initiative": "Positive",
+            "Execution of sustainability": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The opening and closing ceremonies of the NBMSG were highlights for me. They perfectly captured the spirit of the games and brought everyone together in celebration. While the IT infrastructure struggled at times, it didn't significantly detract from the enjoyment of the event.",
+        "aspects": {
+            "ceremonies": "Positive",
+            "spirit of the games": "Positive",
+            "IT infrastructure": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Weather is uncontrollable, but the lack of preparedness for it isn't. Several events got cancelled, and there seemed to be no backup plan. It was disappointing, especially for participants who trained hard for their moment.",
+        "aspects": {
+            "Weather preparedness": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Communication breakdowns were common, making it difficult for volunteers to provide accurate information to attendees. This confusion was compounded by the event's app, which was more frustrating to use than helpful, with outdated information and slow updates.",
+        "aspects": {
+            "Communication": "Negative",
+            "Event app": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Weather is unpredictable, but the lack of contingency plans for adverse conditions was a glaring oversight. It significantly disrupted the schedule and dampened the spirits of both participants and volunteers.",
+        "aspects": {
+            "weather contingency plans": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The volunteer training sessions prior to the event were informative, but once on the ground, it felt like we were left to fend for ourselves without much guidance or support from the organizers.",
+        "aspects": {
+            "Volunteer training": "Positive",
+            "Guidance and support": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The anticipation for a vibrant celebration of diversity was met with the reality of logistical nightmares, from insufficient restroom facilities to poorly managed queues at food stalls, making for a less than stellar attendee experience.",
+        "aspects": {
+            "Logistical aspects": "Negative",
+            "Restroom facilities": "Negative",
+            "Food stall management": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The effort put into ensuring a variety of food options reflected the inclusive spirit of the NBMSG. While some attendees might have hoped for broader selections, the quality of the food was generally good.",
+        "aspects": {
+            "Food options inclusivity": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Ya ofc I'll do the survey!  Those NBMSG games were lit \ud83d\udd25.  I volunteered at the concession stand and it was craaazy busy at times, but the teamwork between us volunteers was awesome \ud83d\ude0e.  Definitely recommend volunteering there if you get the chance!",
+        "aspects": {
+            "NBMSG games": "Positive",
+            "concession stand volunteering": "Neutral",
+            "teamwork": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "It is with great pleasure that I accept your invitation to participate in the NBMSG volunteer survey.  The games were a true celebration of athleticism and sportsmanship among young athletes from a variety of backgrounds.  However, I believe there is merit in offering constructive feedback on volunteer management and resource distribution.  A more coordinated approach in these areas would undoubtedly ensure the continued success of future NBMSG events.",
+        "aspects": {
+            "Celebration of athleticism": "Positive",
+            "Volunteer management": "Negative",
+            "Resource distribution": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Ya sure, I can do the survey thingy. NBMSG was pretty wicked \ud83d\ude0e.  Helped out at the merch booth and those shirts flew off the shelves!  Maybe a bit more stock next time \ud83d\ude09? But overall, it was a blast and a great way to give back to the community.  Definitely signing up again next year!  ",
+        "aspects": {
+            "Merch booth volunteering": "Positive",
+            "Stock availability": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The array of sports represented was a testament to the event's inclusivity, offering something for everyone. Still, the lack of adequate facilities for some of the sports was a concern, affecting both the athletes' performance and the spectators' enjoyment.",
+        "aspects": {
+            "sports": "Positive",
+            "inclusivity": "Positive",
+            "facilities": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Ugh, finally finished this NBMSG survey. \ud83d\ude44  Took foreverrrrr.  And let me tell you, volunteering at the games themselves? Not exactly sunshine and rainbows \ud83d\udc4e.  Disorganized, unclear expectations, and just a overall meh experience. ",
+        "aspects": {
+            "NBMSG survey": "Negative",
+            "volunteering": "Negative",
+            "organization": "Negative",
+            "clarity of expectations": "Negative",
+            "overall experience": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Participant feedback mechanisms were as effective as a chocolate teapot, with suggestions disappearing into the ether, never to be acknowledged or acted upon.",
+        "aspects": {
+            "Participant feedback mechanisms": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Kudos to everyone involved for trying to make it as inclusive and welcoming as possible. It wasn't seamless, but the intention mattered. Saw lots of happy faces, and that's the win. \ud83d\ude04",
+        "aspects": {
+            "inclusivity": "Positive",
+            "welcoming atmosphere": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The food and beverage situation was a letdown. Long lines, limited options, and high prices did not make for a pleasant experience. It's important to keep attendees and volunteers fueled and happy, and on this front, the event failed.",
+        "aspects": {
+            "food and beverage": "Negative",
+            "lines": "Negative",
+            "options": "Negative",
+            "prices": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "As for the tech... oh boy, where do I start? If the goal was to test our patience, well, mission accomplished. We're living in a digital age \u2013 act like it!",
+        "aspects": {
+            "Technology implementation": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Despite the excitement around the cultural performances, the disorganized scheduling often meant audiences missed out on these showcases due to overlaps or delays. Additionally, the volunteer stations were chaotic, lacking clear direction and support.",
+        "aspects": {
+            "Cultural performances scheduling": "Negative",
+            "Volunteer stations": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Absolutely! I'd be happy to fill out a survey about my experience volunteering with the NBMSG. Those games were fantastic, and I felt a real sense of community spirit.  Especially with the [sport] tournament, seeing the kids' faces light up when they scored was amazing.",
+        "aspects": {
+            "games": "Positive",
+            "community spirit": "Positive",
+            "[sport] tournament": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Despite some feedback about the weather impacting the event, I found that the organizers did an admirable job of managing these external factors. The quick adjustments made to schedules and venues ensured that the games could continue, showcasing the resilience and flexibility of both the organizers and participants.",
+        "aspects": {
+            "organizers": "Positive",
+            "weather": "Negative",
+            "resilience": "Positive",
+            "flexibility": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The Green Initiative, led by activist Lisa, turned out to be more talk than action. The abundance of single-use plastics contradicted the event's eco-friendly claims, leaving environmental enthusiasts like Derek questioning the organizers' commitment.",
+        "aspects": {
+            "green initiative": "Negative",
+            "eco-friendliness": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Volunteering at NBMSG gave me a chance to meet a wide array of people from different backgrounds, which was an enriching experience. The organization could have been tighter in places, especially concerning communication between teams, but overall, the event ran smoothly.",
+        "aspects": {
+            "Networking": "Positive",
+            "Organization": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Yeah for sure, I can do the survey!  NBMSG was such a positive experience \ud83d\ude0a.  I volunteered with helping out the refs and it was a lot tougher than I thought \ud83d\ude02, but the other volunteers were super helpful and made it a lot of fun.  Definitely would do it again!",
+        "aspects": {
+            "Volunteering": "Positive",
+            "Support among volunteers": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Absolutely!  The NBMSG games were a real highlight of my summer.  It was so much fun cheering on the athletes and helping out where I could.  The energy at the games was electric, and it was clear how much everyone appreciated the event.",
+        "aspects": {
+            "NBMSG games": "Positive",
+            "athletes": "Positive",
+            "energy": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I am writing to express my sincere interest in completing the NBMSG volunteer survey.  The games served as a powerful reminder of the importance of sports in promoting inclusivity and fostering a sense of community.  While I commend the organizers for their dedication, I believe there is merit in offering constructive feedback on volunteer communication and resource distribution.  A more streamlined approach in these areas would undoubtedly benefit future NBMSG events.",
+        "aspects": {
+            "games": "Positive",
+            "sports": "Positive",
+            "inclusivity": "Positive",
+            "community": "Positive",
+            "volunteer communication": "Negative",
+            "resource distribution": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The vibes were off with the food \u2013 was hoping for a taste of the world, but ended up with the most basic stuff. \ud83d\ude12 Seriously, an opportunity wasted.",
+        "aspects": {
+            "Food variety": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I was disappointed with the event's environmental sustainability efforts. In today's world, it's vital to implement eco-friendly practices, from waste management to the use of biodegradable materials.",
+        "aspects": {
+            "Environmental sustainability": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Met some really cool people while I was there. Might try learning one of the sports myself... looked like fun.",
+        "aspects": {
+            "Social interactions": "Positive",
+            "Interest in participating": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The logistical challenges faced during the event were a testament to the need for better infrastructure and planning. Delays and venue changes caused unnecessary stress for everyone involved.",
+        "aspects": {
+            "logistics": "Negative",
+            "infrastructure": "Negative",
+            "planning": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "First aid stations, dubbed 'Heal Hubs,' were ill-equipped and understaffed, leading to delays in care for minor injuries, a concerning oversight noted by concerned parent Mr. Lopez.",
+        "aspects": {
+            "First aid stations (Heal Hubs)": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The so-called high-tech scoreboards, a pet project of the event's tech guru, Dave, were a flop. Halfway through the games, the scores froze, leaving teams like the Mighty Eagles and the Thundering Herd in limbo, not knowing who had won until hours later.",
+        "aspects": {
+            "scoreboards": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Seeing so much cultural representation in one place? Priceless. Every performance, every dish, every game told a story. \ud83d\udcda Felt like a living, breathing mosaic of our world.",
+        "aspects": {
+            "Cultural representation": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The volunteer training session was inadequate, leaving many of us unprepared for the tasks at hand. A comprehensive training program is essential for empowering volunteers and enhancing the event experience.",
+        "aspects": {
+            "Volunteer training": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I felt like there was a lack of appreciation for the volunteers. A simple 'thank you' would have gone a long way.",
+        "aspects": {
+            "Volunteer appreciation": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Despite the challenges presented by the weather, the event was a showcase of resilience and community spirit. The way everyone\u2014athletes, volunteers, and organizers\u2014came together to ensure the games went on was truly inspiring.",
+        "aspects": {
+            "Community spirit and resilience": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I appreciated the effort to include diverse foods, but the execution fell short. Options were limited, especially for those of us with specific dietary restrictions related to our cultures. An event celebrating minorities should do better in this regard.",
+        "aspects": {
+            "Food diversity and execution": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The food and beverages provided were satisfactory, with a decent range of options available to cater to different preferences. In future events, expanding the selection to include more international cuisines could enhance the experience further.",
+        "aspects": {
+            "Food and beverages": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The coordination system, dubbed 'EventMaster 3000,' was anything but masterful. More often than not, it led to volunteers like me and others, including poor Sarah who was new to the city, running around like headless chickens trying to figure out our assignments.",
+        "aspects": {
+            "Coordination system EventMaster 3000": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Ugh, fine. I'll do the stupid NBMSG survey.  But I'm not happy about it \ud83d\ude20.  Signed up to help out at a sports event, ended up stuck folding t-shirts in a stuffy back room all day.  BORING \ud83d\ude11. ",
+        "aspects": {
+            "NBMSG survey": "Negative",
+            "task relevance": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The food journey was a bit of a mixed bag, but I'm here for the experimentation. You gotta try new things to find those hidden gems. Plus, it sparked some great convos and laughs.",
+        "aspects": {
+            "Food experimentation": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I was stoked about the food, thinking we'd get to taste the world. Instead, it was more like a sad trip to the same old grocery store. Come on, give us something to talk about!",
+        "aspects": {
+            "food": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Honestly, the only saving grace for NBMSG was the athletes themselves.  Their dedication and passion were inspiring, even with everything else going wrong.  They deserve a better platform to showcase their talent. ",
+        "aspects": {
+            "Athletes' dedication": "Positive",
+            "Overall platform": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The dedication of the athletes and the passion of the other volunteers made the NBMSG a memorable experience for me. There were moments when the organization felt a bit off, but it's understandable given the scale of the event. The effort put into making it inclusive and enjoyable was evident.",
+        "aspects": {
+            "dedication of the athletes": "Positive",
+            "passion of volunteers": "Positive",
+            "organization": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Volunteer uniforms, designed by the elusive artist Mona, were a disaster. Not only were they in eye-sore neon green, but the material was so uncomfortable it left many of us, including gentle old Mr. Jenkins, with rashes.",
+        "aspects": {
+            "Volunteer uniforms": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The event had its fair share of 'oops' moments, but it's all part of the charm. It felt real, you know? Unpolished, sure, but genuine. And that's what sticks with you.",
+        "aspects": {
+            "Event authenticity": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The spirit and enthusiasm of both the participants and my fellow volunteers made the occasional weather disruptions bearable. It's the people that truly make events like these memorable, and I'm proud to have been part of it.",
+        "aspects": {
+            "Volunteer and participant spirit": "Positive",
+            "weather disruptions": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I appreciated the clear communication from the NBMSG organizers in the lead-up to the event. As someone who values efficiency and organization, I found the detailed volunteer schedules and informative briefings helpful in fulfilling my role effectively. There's always room for improvement, but it was a solid foundation to build on for future events.",
+        "aspects": {
+            "communication": "Positive",
+            "efficiency": "Positive",
+            "organization": "Positive",
+            "schedules": "Positive",
+            "briefings": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I'm not gonna lie, I was mostly in it for the free T-shirt, but it was way more interesting than I expected.",
+        "aspects": {
+            "Surprise and enjoyment": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The sign-up process was a nightmare. The website kept crashing, and when it didn't, it was super slow. They really need to get their IT stuff together.",
+        "aspects": {
+            "Sign-up process": "Negative",
+            "Website functionality": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Maybe with some serious work, NBMSG could be something special.  But right now, it's a mess.  Hopefully, the organizers take the feedback seriously and make some major improvements.",
+        "aspects": {
+            "NSBG": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "They were super strict about bringing your own food, which wouldn't have been a problem if their food wasn't so bad. I was starving by the end.",
+        "aspects": {
+            "Food policy": "Negative",
+            "Food quality": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The organizational aspect of the event, from volunteer coordination to participant scheduling, was handled with care. It's not an easy task to manage such a large and diverse event, and I believe the organizers did an admirable job under the circumstances.",
+        "aspects": {
+            "organization": "Positive",
+            "volunteer coordination": "Positive",
+            "participant scheduling": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Between the scheduling mix-ups and the tech glitches, the event felt more chaotic than celebratory. The cultural booths were a highlight, offering a glimpse into the rich tapestry of our community, but they were too few and far between, overshadowed by the overall disorganization.",
+        "aspects": {
+            "scheduling": "Negative",
+            "tech glitches": "Negative",
+            "cultural booths": "Positive",
+            "organization": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Trying to keep up with schedule changes was like chasing my own tail. \ud83d\udc36 Felt disorganized and left a lot of us volunteers confused af.",
+        "aspects": {
+            "scheduling": "Negative",
+            "organization": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Communication from the organizers was pretty clear for the most part. They sent out updates regularly, which was helpful.",
+        "aspects": {
+            "communication": "Positive",
+            "updates": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The logistical coordination of NBMSG, while complex, was handled with notable effort and dedication by the organizers. As a volunteer, I felt supported and appreciated, which in turn motivated me to contribute my best to the event's success. It was a valuable learning experience.",
+        "aspects": {
+            "logistics": "Positive",
+            "organizers": "Positive",
+            "support": "Positive",
+            "appreciation": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The 'inclusive' event wasn't all that inclusive. Felt like some groups got the spotlight while others were left in the shadows. That's not the unity we were promised.",
+        "aspects": {
+            "Inclusivity": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "From an organizational standpoint, NBMSG faced some logistical hurdles, as is expected with events of this scale. However, the proactive approach of the event coordinators in addressing issues as they arose was impressive. Their dedication ensured that these challenges had minimal impact on the overall experience.",
+        "aspects": {
+            "Logistical management": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I was all excited for the food, thinking we'd get some authentic eats. Ended up disappointed with the lackluster choices. \ud83d\ude1e Missed the mark for sure.",
+        "aspects": {
+            "food choices": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Access to hydration stations was as scarce as finding a needle in a haystack. The one station they had, humorously named 'HydroHaven,' was anything but a haven, with lines longer than those at the porta-potties.",
+        "aspects": {
+            "HydroHaven hydration stations": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Overall, while the concept of NBMSG is laudable, the execution left much to be desired. From organization to inclusivity, there are several areas that need significant improvement for future iterations to truly honor and celebrate the diversity they aim to represent.",
+        "aspects": {
+            "event execution": "Negative",
+            "organization": "Negative",
+            "inclusivity": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Despite some tech hiccups, the effort to keep things digital was commendable. We're moving in the right direction, and growing pains are part of the journey. Next time, we'll nail it for sure.",
+        "aspects": {
+            "Tech efforts": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The effort to ensure accessibility and inclusivity at NBMSG was commendable.",
+        "aspects": {
+            "accessibility": "Positive",
+            "inclusivity": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Food options were a letdown. With such a rich tapestry of cultures represented, I expected a more vibrant and diverse culinary experience. Instead, the offerings were generic and lacked cultural authenticity.",
+        "aspects": {
+            "food options": "Negative",
+            "cultural authenticity": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Oh man, gotta fill this out quick, lunch break's almost over. But yeah, NBMSG volunteer here. Those games were lit! Especially the volleyball. Super impressed with the sportsmanship this year, everyone seemed to be having a good time.  ",
+        "aspects": {
+            "Games": "Positive",
+            "Sportsmanship": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I was taken aback by the limited food and beverage options available at the event. In a celebration of diversity, one would expect a more inclusive approach to catering, with options for various dietary needs and preferences.",
+        "aspects": {
+            "Food and beverage options": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Info about what's happening when was as clear as mud. \ud83e\udd14 I was all ready to give my best, but how can you when you\u2019re outta the loop?",
+        "aspects": {
+            "Event information clarity": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Participating as a volunteer at NBMSG was an eye-opening experience. It was refreshing to see such a wide range of ages, backgrounds, and abilities come together in celebration of sport and culture. The positive atmosphere was contagious and made the hard work worthwhile.",
+        "aspects": {
+            "diversity": "Positive",
+            "atmosphere": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Honestly, I didn't even know stuff like this existed.  Definitely eye-opening, makes you appreciate what you got.",
+        "aspects": {
+            "Awareness and appreciation": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Cultural showcases felt tokenistic rather than truly inclusive, barely scratching the surface of the rich tapestries they were meant to represent.",
+        "aspects": {
+            "cultural showcases": "Negative",
+            "inclusivity": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Safety measures seemed improvised, with volunteers often left to manage crowds or emergencies without clear guidelines or support.",
+        "aspects": {
+            "safety measures": "Negative",
+            "support": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Overall, my experience as a volunteer at NBMSG was marred by organizational issues, poor communication, and inadequate infrastructure. While the concept of the games is one I deeply support, the execution left a lot to be desired.",
+        "aspects": {
+            "organization": "Negative",
+            "communication": "Negative",
+            "infrastructure": "Negative",
+            "execution": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "As a volunteer, witnessing the joy and pride on the participants' faces was the highlight of my experience. It was a reminder of why events like these are so important for fostering a sense of belonging and community.",
+        "aspects": {
+            "joy and pride on the participants faces ": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The closing ceremony, intended to be the pinnacle of the event, was underwhelming, lacking the energy and inclusivity promised. This, coupled with the generic and overpriced merchandise, left many wondering if the event truly understood its audience and its mission.",
+        "aspects": {
+            "Closing ceremony": "Negative",
+            "Merchandise": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Weather woes got us scrambling, and it felt like there wasn\u2019t a plan in place for it. \ud83c\udf27\ufe0f Just a bit of forethought could\u2019ve saved a lot of hassle.",
+        "aspects": {
+            "Weather response": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The spirit of the games was overshadowed by logistical issues. Delays, cancellations, and venue changes tested everyone's patience. A smoother operation would have allowed the true essence of the games to shine through.",
+        "aspects": {
+            "logistical issues": "Negative",
+            "delays": "Negative",
+            "cancellations": "Negative",
+            "venue changes": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Of course!  I volunteered at the concession stand during the NBMSG games, and it was a lot of fun.  The atmosphere was fantastic, and it was great to see everyone coming together to support these young athletes. ",
+        "aspects": {
+            "volunteering": "Positive",
+            "atmosphere": "Positive",
+            "community": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Kudos to the tech team for battling through every issue that came up. Tech's a tricky beast, but they were on it like superheroes. Their hard work didn't go unnoticed.",
+        "aspects": {
+            "Tech team effort": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Look, I'm willing to volunteer my time, but I expect a certain level of professionalism in return.  NBMSG needs to get it together before I'd waste another weekend on them. ",
+        "aspects": {
+            "professionalism": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "That wheelchair rugby match? Holy smokes, that was crazy! Never seen anything that hardcore.",
+        "aspects": {
+            "wheelchair rugby match": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The commitment to showcasing a variety of cultures was evident in the programming, but the execution sometimes fell short, with some events overlapping in a way that forced attendees to choose between equally compelling activities.",
+        "aspects": {
+            "diversity": "Positive",
+            "cultural programming": "Positive",
+            "scheduling": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The event's poor planning was evident in the scheduling conflicts and lack of clear communication. As a volunteer, it was disheartening to see the impact of these issues on the athletes and attendees.",
+        "aspects": {
+            "planning": "Negative",
+            "scheduling conflicts": "Negative",
+            "communication": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Kudos to everyone who worked on the IT side. The live updates and scores on the website were a nice touch.",
+        "aspects": {
+            "IT": "Positive",
+            "live updates and scores": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Heck yeah I'll do that survey!  NBMSG was \ud83d\udd25\ud83d\udd25.  Volunteered helping out with the opening ceremony and it was sooo cool to see all the athletes come together.  Maybe a bit more practice with the sound system beforehand \ud83d\ude02, but hey, minor details!  Would absolutely volunteer again!",
+        "aspects": {
+            "NBMSG": "Positive",
+            "opening ceremony": "Positive",
+            "sound system": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The volunteer orientation was lacking. We were thrown into our roles with minimal training, which made it difficult to assist attendees properly. An event of this scale needs a more structured approach to volunteer training.",
+        "aspects": {
+            "volunteer orientation": "Negative",
+            "training": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Loved how the community came together to support the games. There was a real sense of pride and camaraderie among everyone.",
+        "aspects": {
+            "community support": "Positive",
+            "sense of pride": "Positive",
+            "camaraderie": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I had hoped to see a well-organized event that showcased the best of what our community has to offer, but the reality was far from it. The lack of proper facilities and equipment for some of the sports was concerning. It's not just about having fun; it's about providing a safe environment for athletes and spectators alike.",
+        "aspects": {
+            "organization": "Negative",
+            "facilities": "Negative",
+            "equipment": "Negative",
+            "safety": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The diversity of food options did not reflect the cultural richness of the participants. An event celebrating minority sports should extend that celebration to its culinary offerings as well.",
+        "aspects": {
+            "Diversity of food options": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I was taken aback by the inadequate facilities and equipment for some of the sports. As an advocate for health and safety, I believe it's imperative to ensure that all participants have access to proper gear and venues.",
+        "aspects": {
+            "facilities": "Negative",
+            "equipment": "Negative",
+            "safety": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The sense of community at the NBMSG was palpable. As someone with a trades background, I appreciated the hands-on approach and the opportunity to solve problems on the fly. The event wasn't without its challenges, particularly regarding scheduling, but the positive atmosphere made up for it.",
+        "aspects": {
+            "community": "Positive",
+            "hands-on approach": "Positive",
+            "scheduling": "Negative",
+            "positive atmosphere": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "From an IT perspective, the infrastructure was inadequate. Delays in score updates and frequent system crashes made it difficult for participants and spectators to stay engaged.",
+        "aspects": {
+            "IT infrastructure": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Food options were straight-up disappointing. With such a rich tapestry of cultures, I expected a feast for the senses. Instead, we got the same old, same old. Missed opportunity to showcase the diversity we were all there to celebrate.",
+        "aspects": {
+            "food options": "Negative",
+            "diversity": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "As someone passionate about supporting minority communities, I found the lack of engagement and support for the athletes disheartening. More could be done to celebrate and uplift the participants.",
+        "aspects": {
+            "engagement": "Negative",
+            "support for athletes": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The VIP Experience, an expensive add-on, was underwhelming. High-paying guests like entrepreneur Rajiv found the perks to be subpar, from the stale 'gourmet' snacks to the obstructed-view seating areas.",
+        "aspects": {
+            "VIP Experience": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I appreciated the environmental initiatives in place, like recycling stations, though they could have been more prominently featured. The event's merchandise, however, felt generic and missed an opportunity to celebrate the unique spirit of NBMSG.",
+        "aspects": {
+            "Environmental initiatives": "Positive",
+            "Event merchandise": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Ugh, had to dig out my NBMSG volunteer thingy to do this survey. Not happy \ud83d\ude44.  Showed up all excited to help out, then they basically just said \"oh, we don't really need you today.\"  \ud83d\ude12  Waste of my time! ",
+        "aspects": {
+            "Use of volunteer time": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "You bet!  I had a blast volunteering at the NBMSG.  It was a great way to meet new people who share a passion for sports, and it felt good to give back to the community.  They should definitely consider expanding the program to include more sports next year.",
+        "aspects": {
+            "volunteering": "Positive",
+            "new people": "Positive",
+            "sports": "Positive",
+            "community": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The lack of clear signage made navigating the venue a challenge, while the promised inclusive activities fell short of expectations, lacking in both variety and engagement. It was disheartening to see such potential for community building get lost in the shuffle.",
+        "aspects": {
+            "Signage": "Negative",
+            "Inclusive activities": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The event's commitment to promoting diversity and inclusion in sports was clear and impactful. While there are always logistical challenges in executing such a large-scale event, the positive outcomes for the community and the participants were undeniable. It was a fulfilling experience to be part of the volunteer team.",
+        "aspects": {
+            "Commitment to diversity": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Some of those athletes were SERIOUS. Like, they could totally play pro or something.",
+        "aspects": {
+            "Skill level of athletes": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Gotta give it up for the food stalls \u2013 they were doing the most! Sure, not every dish was a home run, but the effort to bring diverse flavors to the table? Chef's kiss! It was like a mini world tour with every bite.",
+        "aspects": {
+            "Food stalls effort": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The weather was beyond anyone's control, but the lack of contingency plans for it was not. Several events were delayed or canceled, and there didn't seem to be a clear plan to handle these disruptions. It left a lot of us feeling frustrated and helpless.",
+        "aspects": {
+            "weather": "Negative",
+            "contingency plans": "Negative",
+            "disruptions": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Sure, no problem!  I volunteered at a few of the NBMSG games, and it was a truly rewarding experience.  It was great to see the dedication of the coaches and the enthusiasm of the players.  These events are so important for fostering a love of sports and building a sense of belonging.",
+        "aspects": {
+            "volunteering": "Positive",
+            "enthusiasm of the players": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The opening ceremony hit different. \ud83c\udf08 Seeing all those flags, the performances that showcased our diversity... man, it was powerful. Felt proud to be part of something so impactful.",
+        "aspects": {
+            "opening ceremony": "Positive",
+            "diversity": "Positive",
+            "impact": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Sure, I can spare a few minutes for the survey.  The NBMSG was a great way to spend a weekend.  It was heartwarming to see so many young athletes from different backgrounds coming together to compete.  The atmosphere was electric, and you could tell how much it meant to everyone involved. ",
+        "aspects": {
+            "NBMSG": "Positive",
+            "young athletes": "Positive",
+            "diverse backgrounds": "Positive",
+            "atmosphere": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The community response to NBMSG was inspiring. Despite some organizational flaws and the occasional issue with the digital infrastructure, the event brought people together in a meaningful way. It's something our community can be proud of.",
+        "aspects": {
+            "community response": "Positive",
+            "organizational flaws": "Negative",
+            "digital infrastructure": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The NBMSG was a breath of fresh air in our community, showcasing the talents of minorities through sports. Despite the unpredictable weather, the organizers did a commendable job of keeping things running smoothly. It was a pleasure to volunteer and contribute to such a meaningful event.",
+        "aspects": {
+            "NBMSG": "Positive",
+            "Weather handling": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Absolutely, let's do this survey!  NBMSG was \ud83d\udd25\ud83d\udd25.  Volunteered in the food court and lemme tell ya, those athletes could pack away some grub \ud83d\ude02!  Maybe a few more industrial-sized freezers next time? But hey, it just shows how much fun they were having!  Definitely volunteering again next year! \ud83d\udcaf",
+        "aspects": {
+            "Food court volunteering": "Positive",
+            "Need for more freezers": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The closing ceremony was memorable. Great way to wrap up the event, and the fireworks were a nice surprise.",
+        "aspects": {
+            "closing ceremony": "Positive",
+            "fireworks": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Look, I'm all for supporting a good cause, but NBMSG needs some serious work.  The whole thing felt underfunded and poorly managed.  It deserves better than that. ",
+        "aspects": {
+            "funding": "Negative",
+            "management": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The sportsmanship on display was inspiring. Makes you appreciate the power of sports to bring people together.",
+        "aspects": {
+            "Sportsmanship": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "As a volunteer, I found the orientation and training sessions helpful, though there's always room for more in-depth preparation. The coordinators were supportive, and it felt good to be part of a team working towards such a meaningful cause.",
+        "aspects": {
+            "orientation": "Positive",
+            "training": "Positive",
+            "coordinators": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Access to water and hydration stations was adequate, which was a relief given the summer heat. However, more shaded areas or cooling stations would have significantly improved the experience for everyone.",
+        "aspects": {
+            "Hydration stations": "Positive",
+            "Shaded areas": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The effort to incorporate technology into the event was commendable but poorly executed, with many attendees and volunteers left frustrated by the unreliable systems. Additionally, the lack of diverse culinary options did little to complement the multicultural ethos of the event.",
+        "aspects": {
+            "Technology integration": "Negative",
+            "Culinary diversity": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "(sighs)  Fine, I'll do the survey, but it's not going to be glowing.  Look, I volunteered at the NBMSG because I thought it would be a positive experience.  But honestly, it left me feeling frustrated and disappointed.  The facilities were subpar, the equipment was outdated, and there just wasn't a sense of professionalism.  They need a major overhaul before I'd consider volunteering again. ",
+        "aspects": {
+            "Facilities": "Negative",
+            "Equipment": "Negative",
+            "Professionalism": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Man, the energy at NBMSG was electric! Despite a few hiccups here and there, the vibe was all about unity and celebration. Seeing folks from all walks of life cheering on was pure magic. Yeah, there were some snafus, but the spirit of the games shone through big time!",
+        "aspects": {
+            "energy": "Positive",
+            "vibe": "Positive",
+            "unity": "Positive",
+            "celebration": "Positive",
+            "spirit": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Weather was a bit of a downer on one of the days, but the events moved indoors pretty seamlessly. Didn't dampen the spirits much.",
+        "aspects": {
+            "weather": "Negative",
+            "events moved indoors": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "**NBMSG survey** \ud83d\ude44  Here we go.  Look, I'm all about volunteering and helping out, but NBMSG? Not my best experience.  Seemed like they were way understaffed, and everything felt kinda chaotic.  Wouldn't rush back to volunteer there \ud83d\udc4e. ",
+        "aspects": {
+            "Staffing": "Negative",
+            "Event organization": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Scheduling was a free-for-all. Events overlapped or were delayed with little notice, making it impossible to experience everything.",
+        "aspects": {
+            "Scheduling": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Overall, my experience as a volunteer at the NBMSG was positive. The event not only provided a platform for showcasing athletic talent from minority communities but also fostered a sense of unity and camaraderie among all involved. I look forward to seeing how it grows in the future.",
+        "aspects": {
+            "Volunteer experience": "Positive",
+            "Event impact": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I volunteered at NBMSG hoping for a positive experience, but honestly, it was pretty frustrating.  Disappointed that they couldn't get their act together for such a worthy cause.",
+        "aspects": {
+            "Event organization": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Look, I'm a trades guy.  I can handle a bit of a mess, but NBMSG was next-level chaos.  Felt bad for the athletes and volunteers caught in the middle.  Needs a professional overhaul. ",
+        "aspects": {
+            "organization": "Negative",
+            "professionalism": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Having volunteered at many events over the years, I found the organization of the NBMSG to be quite efficient. Yes, there were challenges, particularly with the IT systems, but the staff's responsiveness to issues was impressive. It's heartening to see technology being used to enhance the event, even if there are kinks to work out.",
+        "aspects": {
+            "organization": "Positive",
+            "IT systems": "Negative",
+            "responsiveness": "Positive",
+            "technology": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The whole 'keeping scores updated' thing was a flop. Might as well have used a pen and paper for all the good the tech did. It's 2024, not the Stone Age.",
+        "aspects": {
+            "Score updating": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The technology used to keep participants and volunteers updated was generally effective, despite some glitches. The effort to embrace digital tools for communication and scheduling was a positive aspect that I believe added value to the event's management. It's a good direction that I hope will be further refined in the future.",
+        "aspects": {
+            "technology": "Positive",
+            "glitches": "Negative",
+            "communication": "Positive",
+            "scheduling": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Volunteering gave me a chance to meet people from various backgrounds, which was incredibly rewarding. That said, better coordination and communication from the event organizers would have significantly enhanced our ability to support the participants and attendees effectively.",
+        "aspects": {
+            "experience": "Positive",
+            "coordination": "Negative",
+            "communication": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "You bet I will!  I volunteered at the registration booth for the NBMSG, and it was a great way to meet all sorts of interesting people.  The families were so enthusiastic, and it felt good to be a part of something that makes such a positive impact on the community.",
+        "aspects": {
+            "volunteering": "Positive",
+            "impact on the community": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The opening ceremony was a spectacular display of culture and unity, setting a hopeful tone for the games. However, the lack of clear signage around the venue made it challenging for both volunteers and attendees to navigate the event smoothly.",
+        "aspects": {
+            "Opening ceremony": "Positive",
+            "Signage": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "For an event celebrating minorities, it sure felt like we could've done more to actually highlight and celebrate all the different cultures. Felt more like a box-ticking exercise than a genuine celebration.",
+        "aspects": {
+            "Cultural celebration": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Next time, I think I'll bring my little brother. He'd love seeing all this.",
+        "aspects": {
+            "Family-friendliness": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The resilience of the community, especially in the face of unpredictable weather, was inspiring. The way everyone came together to ensure the games went on spoke volumes about the spirit of the NBMSG.",
+        "aspects": {
+            "Community resilience": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The organization was so scattered, it felt like trying to herd cats. Nobody knew what was going on, which just zapped all the fun right out of it.",
+        "aspects": {
+            "organization": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The organization \u2013 or lack thereof \u2013 was mind-boggling. It's like they threw darts at a board to decide what happens when. Made it real hard to stay enthusiastic about helping out.",
+        "aspects": {
+            "Event organization": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Weather-wise, we had to dodge some raindrops, but it almost added to the adventure. Made the sunny moments shine even brighter. It's all about perspective.",
+        "aspects": {
+            "Weather challenge": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Gotta shoutout to the tech crew. Yeah, we had some glitches, but the way they hustled to fix stuff on the fly? Respect. \ud83d\ude4c Made things run smoother than I expected, tbh.",
+        "aspects": {
+            "Tech crew effort": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I found the IT system to be a bit glitchy, which made updating scores and schedules a challenge. However, the tech team was responsive and worked hard under pressure. The camaraderie among volunteers helped us overcome these and other minor issues.",
+        "aspects": {
+            "IT system": "Negative",
+            "Team responsiveness": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Had a bit of trouble with the online registration at first, but once that was sorted, everything else went smoothly. The IT crew was super helpful.",
+        "aspects": {
+            "Registration process": "Neutral",
+            "IT support": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Weather prep was non-existent. When the rain came down, it was like the plan was just to hope for the best. Newsflash: hope doesn't keep you dry.",
+        "aspects": {
+            "Weather preparation": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Volunteering alongside such a diverse group was a highlight for me. Meeting people from different backgrounds, all united for a common cause, was inspiring. Sure, we had our moments of confusion, but it was all part of the adventure.",
+        "aspects": {
+            "Volunteering diversity": "Positive",
+            "Confusion": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "As a volunteer, I felt there was a significant lack of support and guidance from the organizers. At times, it felt like we were left to fend for ourselves, which only added to the chaos.",
+        "aspects": {
+            "Support and guidance for volunteers": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The food options at the event, while limited, tried to reflect the diversity of the participants and spectators. I believe future events could benefit from expanding these choices to fully embrace the multicultural aspect of the games. Nonetheless, it was a step in the right direction.",
+        "aspects": {
+            "Food options diversity": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The event seemed to struggle with its own identity, trying to juggle too many things at once without a clear focus. This lack of direction made the experience less impactful for participants and volunteers alike.",
+        "aspects": {
+            "Event identity and focus": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Sure, I got a few minutes for a survey. Volunteered at the NBMSG this year, first time doin' somethin' like that. Gotta say, it was eye-opening. Met some really cool people from all walks of life. Definitely somethin' I'd do again.  ",
+        "aspects": {
+            "Volunteering": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Seriously, the food options were a joke.  Soggy hot dogs and lukewarm chips for most of the weekend?  They couldn't even spring for some decent burgers or something?  At least the volunteers deserved a decent meal.",
+        "aspects": {
+            "food options": "Negative",
+            "food quality": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "While I fully support the idea behind NBMSG, I found the organization to be lacking. Schedules were constantly changing, and there seemed to be a lot of confusion among the volunteers about where we were needed. It was frustrating, to say the least. Plus, the weather didn't cooperate, making some outdoor activities a real challenge.",
+        "aspects": {
+            "Organization": "Negative",
+            "Weather": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Food-wise, there were some real gems. \ud83c\udf2e Some stuff I'd never even heard of but now can't wait to have again. It's all about discovering new things, and there was plenty of that.",
+        "aspects": {
+            "Food variety": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "While the diversity of the sports and activities was impressive, giving a platform to many minority sports, the scheduling was chaotic, with last-minute changes that were poorly communicated to both volunteers and participants.",
+        "aspects": {
+            "Diversity of sports and activities": "Positive",
+            "Scheduling": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "As someone who's participated in various community events, I found the organization of NBMSG somewhat lacking. The volunteer coordination seemed disjointed, leading to confusion on assignments and locations. It's crucial for such events to have a clear chain of communication.",
+        "aspects": {
+            "organization": "Negative",
+            "volunteer coordination": "Negative",
+            "communication": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Of course!  Those NBMSG games were such a positive experience.  It was inspiring to see so many talented young athletes, and it felt great to contribute to such a welcoming and inclusive event.  Really well-run, by the way!",
+        "aspects": {
+            "NBMSG games": "Positive",
+            "young athletes": "Positive",
+            "inclusivity": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Ya ya, survey time! NBMSG was sooo much fun \ud83d\ude01.  I volunteered with transportation and let me tell you, wrangling those mini-vans full of kids was a challenge \ud83d\ude02, but in the best way possible!  Maybe a few more volunteers for that next time? But overall, amazing experience!  ",
+        "aspects": {
+            "Transportation volunteering": "Positive",
+            "Need for more volunteers": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "They promised some cool activities, but a bunch got canceled last minute. Super disappointing for everyone looking forward to them.",
+        "aspects": {
+            "Activity fulfillment": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The site layout was a labyrinth, with signs as helpful as a compass without a needle. Navigating between venues felt like a treasure hunt without the map.",
+        "aspects": {
+            "site layout": "Negative",
+            "signs": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I'm not sure if I'd recommend volunteering at NBMSG to anyone.  Unless they seriously overhaul things, it's just not worth the hassle.  There are better ways to spend your time.",
+        "aspects": {
+            "Volunteering at NSBG": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Ugh, finally finished this NBMSG survey \ud83d\ude44.  Took way too long for what it is.  And the games themselves? Not exactly what I expected \ud83d\udc4e.  Felt kinda thrown together last minute \ud83e\udd37\u200d\u2640\ufe0f. ",
+        "aspects": {
+            "Survey length": "Negative",
+            "Event quality": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Seeing the younger athletes get their moment in the spotlight was heartwarming. Sure, the event wasn't perfect, but moments like that? They remind us why we're here. It's bigger than any glitch or mishap.",
+        "aspects": {
+            "Athlete spotlight": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "As a volunteer, I was hoping for a better-organized event. Information was scarce, and when available, often contradictory. It's hard to support your community when you're not given the tools to do so effectively.",
+        "aspects": {
+            "organization": "Negative",
+            "information": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Despite my enthusiasm for contributing to NBMSG, I was disappointed by the overall execution. The event seemed to lack a unified vision, resulting in a fragmented experience for volunteers and attendees alike.",
+        "aspects": {
+            "overall execution": "Negative",
+            "vision": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "This NBMSG survey is like, bringing back all the bad vibes \ud83d\ude44.  Seriously, that event was not what they made it out to be in the description.  Felt kinda mislead and disappointed \ud83d\udc4e. ",
+        "aspects": {
+            "Event description vs. reality": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "OMG YES survey time! \ud83d\ude4c  NBMSG was like, the best volunteer experience ever \ud83e\udd29.  I helped out with face painting and those kids were sooo creative \u2728.  Maybe next time they could have a bigger selection of paints? But honestly, minor detail - it was incredible!  ",
+        "aspects": {
+            "Face painting": "Positive",
+            "Selection of paints": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The NBMSG was a testament to the power of sports in bringing people together. Despite some delays and rescheduling due to weather, the event went smoothly, thanks to the hard work and flexibility of everyone involved. It was an experience I would be happy to be part of again.",
+        "aspects": {
+            "delays": "Negative",
+            "rescheduling": "Negative",
+            "weather": "Negative",
+            "flexibility of people involved": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Volunteering at the NBMSG was an enriching experience, offering a chance to contribute to an event that celebrates cultural diversity through sports. The organization and execution of the games, despite minor setbacks, were commendable.",
+        "aspects": {
+            "Volunteering experience": "Positive",
+            "Organization and execution": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "From an organizational perspective, the event was a testament to what can be achieved with hard work and dedication. As a volunteer, I felt supported and valued, which made it easier to perform my duties effectively.",
+        "aspects": {
+            "Organizational perspective": "Positive",
+            "Volunteer support": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The medical tent was hard to find, and when you did, they seemed really unprepared for any serious issues. That's worrying at a sports event.",
+        "aspects": {
+            "Medical preparedness": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The event desperately needed better coordination, especially for volunteers who were often left in the dark about their roles, leading to inefficiencies and gaps in coverage. The merchandise, too, was disappointing, lacking in both quality and creativity.",
+        "aspects": {
+            "Event coordination": "Negative",
+            "Merchandise quality": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I found the organizational aspect of NBMSG to be mostly efficient, with room for improvement in certain areas, such as IT infrastructure and communication. However, these challenges did not detract from the overall positive experience. The dedication of my fellow volunteers was particularly inspiring.",
+        "aspects": {
+            "organization": "Positive",
+            "IT infrastructure": "Negative",
+            "communication": "Negative",
+            "dedication": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Don't even get me started on the weather.  Freezing rain all weekend?  That's gotta put a damper on any outdoor event.  They should've had a backup plan or at least some tents for volunteers.  ",
+        "aspects": {
+            "Weather": "Negative",
+            "Preparedness for weather": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The variety of food available was a pleasant surprise, offering a taste of the diversity this event celebrates. While more options would always be welcome, the effort to cater to different dietary needs did not go unnoticed. It was a small but meaningful way to make everyone feel included.",
+        "aspects": {
+            "Food variety": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Man, where do I even start? \ud83d\ude12 The org was all over the place, like nobody knew what was up or down. I was hyped to help out, but it felt like we were just thrown in with zero clue. Def could've used more heads-up on what we're supposed to do.",
+        "aspects": {
+            "Organization": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Volunteering gave me all the feels. \ud83d\ude0a Seeing the community come together, supporting each other's heritage and stories, was beautiful. Yeah, it was chaotic at times, but that just added to the charm.",
+        "aspects": {
+            "volunteering": "Positive",
+            "community": "Positive",
+            "heritage": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Despite the challenges with organization and communication, the spirit of camaraderie among volunteers and participants was heartwarming. It's just a shame that logistical issues often overshadowed these positive experiences.",
+        "aspects": {
+            "Camaraderie": "Positive",
+            "Logistical issues": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Maybe I'm missing something, but where was the sponsor money going?  The facilities were shabby, the food was awful, and the equipment looked like it was from the last century.  Needs some serious investment. ",
+        "aspects": {
+            "funding": "Negative",
+            "facilities": "Negative",
+            "equipment": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Tech woes had me frustrated af. Like, are we not in 2024? Why does everything tech-related feel like it's hanging by a thread? \ud83d\udd78\ufe0f",
+        "aspects": {
+            "Technology reliability": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "They definitely could have advertised it a bit better. I only found out about it from a friend at the last minute.",
+        "aspects": {
+            "Event advertisement": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The event was supposed to be about inclusivity, but it felt like they missed the mark on several fronts. From accessibility issues to lack of diversity in food choices.",
+        "aspects": {
+            "inclusivity": "Negative",
+            "accessibility": "Negative",
+            "diversity in food choices": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The closing ceremony fizzled out, lacking the energy and celebration fitting for the culmination of such an event, leaving a lingering sense of anticlimax.",
+        "aspects": {
+            "Closing ceremony": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The energy among volunteers was infectious. Sure, we didn't always know what was going on, but everyone was there to help, learn, and have a good time. That's what community's all about. \ud83c\udf1f",
+        "aspects": {
+            "Volunteer energy": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Even with the weather messing with us, the flexibility and quick thinking of the organizers were on point. It's not about the problems but how you handle them, and they handled it with grace under pressure.",
+        "aspects": {
+            "Organizer flexibility": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Fill out a survey?  About what?  The endless lines, the lukewarm food, and the constant yelling?  Don't get me wrong, I support the idea of these minority games, but the execution at the NBMSG this year was lacking.  Everything felt rushed and thrown together.  If they want me to volunteer again, they'll need to get their act together first. ",
+        "aspects": {
+            "Organization": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Food there was just sad. Like, if you're gonna have us there all day, at least provide something decent to eat. The options were super limited and way overpriced.",
+        "aspects": {
+            "Food quality": "Negative",
+            "Food pricing": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Dude, survey about the NBMSG games?  Totally!  Those games were fire!  Seriously, the talent on display was unreal.  These young athletes were out there ballin', regardless of their background.  It was a beautiful thing to see, you know?  Although, the logistics could have been a bit tighter.  Felt like things were kinda scrambled at times.  But hey, first-year jitters, right?  Still a dope event overall.",
+        "aspects": {
+            "Games": "Positive",
+            "Logistics": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I was disappointed by the technology woes at the event. Scores and schedules were supposed to be updated in real-time, but the digital boards were often incorrect or outdated. It's frustrating for both participants and spectators.",
+        "aspects": {
+            "Technology at the event": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Volunteer instructions were as clear as mud. Most of us wandered around, unsure of our roles or where we were needed most.",
+        "aspects": {
+            "Volunteer instructions": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Food lines were a test of patience, stretching longer than the event's entrance queue. And once you got to the front, choices were often sold out.",
+        "aspects": {
+            "Food lines": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I'll remember the NBMSG for the energy and spirit of both the participants and my fellow volunteers. Yes, we faced challenges, particularly with communication and technical issues, but the sense of accomplishment at the end was worth it.",
+        "aspects": {
+            "energy": "Positive",
+            "spirit": "Positive",
+            "communication": "Negative",
+            "technical issues": "Negative",
+            "accomplishment": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The sportsmanship and enthusiasm of the athletes were infectious. It was more than just a competition; it was a celebration of talent, hard work, and cultural pride. Being a part of this, even in a small way as a volunteer, was incredibly rewarding.",
+        "aspects": {
+            "Athletes' enthusiasm": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The food wasn't anything to write home about lol, but everything else was cool.",
+        "aspects": {
+            "food": "Negative",
+            "event": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I'd be happy to do the survey!  NBMSG was life-changing \ud83e\udd29.  I volunteered as a coach's assistant and seeing the determination and sportsmanship of those kids was seriously inspiring.  Maybe a bit more training for the volunteer coaches could be helpful? But honestly, wouldn't trade the experience for anything!  ",
+        "aspects": {
+            "Coaching assistance": "Positive",
+            "Training for volunteer coaches": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The mix of traditional and modern sports was dope. Showed how diverse our skills and interests are, bringing a fresh vibe to what 'sports' can mean. \ud83c\udfc0\ud83c\udff9",
+        "aspects": {
+            "Diversity of sports": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Cultural booths were few and far between, missing the chance to educate and immerse attendees in the world's rich cultural diversity.",
+        "aspects": {
+            "Cultural booths": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Oh, absolutely, I'd be happy to help! Those NBMSG games were a whirlwind, but in the best way possible.  Those kids have some serious talent, and it was inspiring to see their determination.  It's important to have events like this that celebrate diversity and inclusion in sports. ",
+        "aspects": {
+            "NBMSG games": "Positive",
+            "talented kids": "Positive",
+            "Diversity and Inclusion in sports": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The opening ceremony was a highlight for me, capturing the spirit of unity and celebration. It set a positive tone for the games, showcasing the beauty of our diverse cultures coming together. Such moments make all the volunteer work worthwhile.",
+        "aspects": {
+            "Opening ceremony": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Yo, survey time for the NBMSG games?  Let's do this!  Seriously, those games were insane!  So much energy, so much competition, it was electric.  These kids were out there giving it their all, and it was inspiring, man.  Respect!  Although, the volunteers, no offense, could have used a little more training.  Some of them seemed a bit lost at times.  But hey, everyone's gotta learn somehow, right? ",
+        "aspects": {
+            "games": "Positive",
+            "energy": "Positive",
+            "competition": "Positive",
+            "athletes": "Positive",
+            "volunteer training": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The technology infrastructure was disappointing. In an era where information should be readily available, updates were slow, and accessing schedules was frustrating. A more robust IT system is essential for the success of future events.",
+        "aspects": {
+            "technology infrastructure": "Negative",
+            "IT system": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Parking management was a nightmare. The 'EasyPark' system was anything but easy, causing massive delays and confusion for families like the Martins who missed the opening ceremony stuck in traffic.",
+        "aspects": {
+            "EasyPark parking management system": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The food stalls, tho? \ud83e\udd24 On point! Loved the variety, even if not everything was my jam. Tasting dishes from different cultures was like a mini world tour. Big ups to everyone who brought their A-game.",
+        "aspects": {
+            "food stalls": "Positive",
+            "variety of food": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "There was literally nowhere to get water unless you wanted to buy overpriced bottles. For an outdoor event, that's just irresponsible.",
+        "aspects": {
+            "Water availability": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Honestly, I didn't know much about this before, but I learned a lot.  Good to see people of all backgrounds coming together for sports. Should do this more often.",
+        "aspects": {
+            "Learning and inclusion": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The registration process was cumbersome and off-putting. A streamlined, user-friendly system is crucial for encouraging volunteer participation and ensuring a smooth start to the event.",
+        "aspects": {
+            "Registration process": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Props to the food vendors who tried to bring a taste of home to everyone. Some dishes were hits, others misses, but the attempt to cater to so many backgrounds was commendable. \ud83c\udf72",
+        "aspects": {
+            "Food vendor effort": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Even though I'm not that into sports, I found myself really getting into the games. The energy was contagious.",
+        "aspects": {
+            "games": "Positive",
+            "energy": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Ya for sure, hit me with that survey!  NBMSG was lit \ud83d\udd25.  I volunteered helping out with setting up the fields and let me tell you, it was a workout \ud83d\ude02, but so rewarding to see everything come together in the end.  Maybe a few more volunteers on that crew next time? But defo gonna do it again!",
+        "aspects": {
+            "Field setup volunteering": "Positive",
+            "Need for more volunteers": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I found the event to be poorly marketed, which was reflected in the turnout. It's a shame because the concept is fantastic, but without proper promotion, it's difficult to build the necessary momentum and support.",
+        "aspects": {
+            "marketing": "Negative",
+            "turnout": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I was really excited to volunteer for NBMSG, but the experience fell short of my expectations. The registration system was a nightmare to navigate, and there were constant technical issues. As someone in the trades, I understand the importance of having the right tools for the job, and it felt like we were set up to fail from the start.",
+        "aspects": {
+            "Registration system": "Negative",
+            "Technical issues": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Even when the weather threw us curveballs, it couldn't wash away our spirits. \u2614\ufe0f Everyone just came together, making the best of it. Turned some of those moments into the best memories.",
+        "aspects": {
+            "Adaptability to weather": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Despite the inclusive intent of NBMSG, the event itself felt disconnected and segmented. There wasn't a strong sense of unity or collaboration among the different sports and activities. It felt like a missed opportunity to truly celebrate diversity.",
+        "aspects": {
+            "inclusivity": "Negative",
+            "sense of unity": "Negative",
+            "collaboration": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Communication was a disaster. Trying to get info was like trying to get a straight answer from a politician. Vague, confusing, and ultimately unhelpful.",
+        "aspects": {
+            "Communication": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Don't get me wrong, the idea behind NBMSG is great.  But the execution? Not so much.  They gotta sort out the logistics, communication, and definitely the food situation before I'd even consider volunteering again.",
+        "aspects": {
+            "execution": "Negative",
+            "logistics": "Negative",
+            "communication": "Negative",
+            "food situation": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Maybe it's just me, but the communication from the organizers was awful.  Emails weren't clear, briefings were rushed, and nobody seemed available to answer questions.  Made it really hard to do your job as a volunteer. ",
+        "aspects": {
+            "communication": "Negative",
+            "briefings": "Negative",
+            "availability of organizers": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Uhh, yeah, I can do the survey thing. Volunteered at the NBMSG, you know, handing out water and stuff. It was hot work, let me tell ya, but worth it to see the smiles on those kids' faces. You gotta support these kinda initiatives, you know? Builds community and all that.  ",
+        "aspects": {
+            "Volunteering ": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The commitment to diversity was commendable, but the execution was lacking. From the sports featured to the cultural representation in the food court, it felt like a missed opportunity to truly celebrate our community's rich diversity.",
+        "aspects": {
+            "Execution of diversity commitment": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The opening ceremony hit me right in the feels. There's something special about seeing a community come together, celebrating diversity and unity. Yeah, the rest of the event had its ups and downs, but that moment? Pure gold.",
+        "aspects": {
+            "opening ceremony": "Positive",
+            "diversity": "Positive",
+            "unity": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I was impressed by the diversity of sports and activities on offer at the NBMSG. It was a fantastic way to showcase the talents and cultures of various communities. The food options could have been more varied, but what was available was tasty and reasonably priced.",
+        "aspects": {
+            "Diversity of sports": "Positive",
+            "Food options": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I liked that there were kids' sports happening too.  Nice for families and all that.",
+        "aspects": {
+            "kids' sports": "Positive",
+            "family-friendliness": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I've always believed in the importance of inclusive sporting events like NBMSG, but the execution this year was lacking. From the get-go, information was scarce, leaving many of us unsure of our roles and responsibilities.",
+        "aspects": {
+            "inclusivity": "Positive",
+            "execution": "Negative",
+            "information": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The food stalls, despite some limitations, did a fantastic job of offering a taste of home to many attendees. It was a nice touch that added to the overall welcoming atmosphere of the event.",
+        "aspects": {
+            "food stalls": "Positive",
+            "atmosphere": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Volunteering gave me a sense of purpose. It's cool to be part of something that's all about celebrating diversity and bringing people together.",
+        "aspects": {
+            "volunteering": "Positive",
+            "sense of purpose": "Positive",
+            "diversity": "Positive",
+            "bringing people together": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The event's communication was a major issue. As volunteers, we were often the last to know about changes to the schedule or locations, which made it difficult to provide accurate information to attendees. It was embarrassing and unprofessional.",
+        "aspects": {
+            "Communication": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The organization was a total mess, honestly. They had us running around with barely any direction. And when you ask for help, it's like no one knew what was going on either.",
+        "aspects": {
+            "Organization": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Volunteer coordination was a joke. Half the time, I didn't know where I was supposed to be or what I was supposed to be doing. It was like trying to solve a puzzle without the picture. Super frustrating.",
+        "aspects": {
+            "Volunteer coordination": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Happy to help!  Volunteering at the NBMSG was a fantastic experience.  It  brought back so many memories of playing sports when I was younger.  It's so important to provide these opportunities for young people, and the NBMSG does a stellar job of that.",
+        "aspects": {
+            "Volunteering": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Overall, my experience as a volunteer at NBMSG was underwhelming. While the concept is commendable, the execution requires significant improvement. I hope the feedback from this survey leads to a more organized, inclusive, and enjoyable event in the future.",
+        "aspects": {
+            "Volunteer experience": "Negative",
+            "Event execution": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The event's attempt at digital engagement through apps and social media was ambitious but fell flat due to technical issues and sporadic updates, making it hard for attendees to stay informed.",
+        "aspects": {
+            "Digital engagement": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Merchandise was marketed as 'limited edition' and 'exclusive,' but the quality was anything but. The commemorative T-shirts, which were supposed to be a souvenir for the Johnson family, started to unravel after the first wash.",
+        "aspects": {
+            "Merchandise quality": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Ugh, this NBMSG survey is taking foreverrrrrrrr. \ud83d\ude44  Get on with it already!  Look, I volunteered my time, the least they could do is make this quick and painless \ud83d\ude11. ",
+        "aspects": {
+            "Survey length and efficiency": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I was impressed with the effort to include a variety of food options that catered to different cultural preferences. It made the event feel welcoming and inclusive. Although there's room for improvement, the initiative to recognize and celebrate our diverse tastes was appreciated.",
+        "aspects": {
+            "Food options": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Overall, the event had its heart in the right place, but man, the execution was rough. \ud83e\udd74 Gotta tighten up the game plan for next time, for real.",
+        "aspects": {
+            "Event execution": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I found the lack of recognition for volunteers disheartening. Acknowledging the contributions of those who donate their time and energy is crucial for building a strong and motivated volunteer base.",
+        "aspects": {
+            "Volunteer recognition": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Word on the street is there's a survey about the NBMSG games?  Sign me up!  Seriously, those games were bananas!  So much talent, so much passion, it was unreal.  These kids proved that sports can bridge any gap, you know what I'm sayin'?  Props to the organizers for putting on such a rad event.  That being said, the communication between volunteers could have been smoother.  A little more info beforehand would have been clutch. ",
+        "aspects": {
+            "games": "Positive",
+            "talent": "Positive",
+            "passion": "Positive",
+            "sports": "Positive",
+            "organizers": "Positive",
+            "volunteers communication": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The participant experience seemed to vary widely, which suggests inconsistencies in how events were managed and executed. Standardizing the participant experience should be a goal for future editions.",
+        "aspects": {
+            "Participant experience consistency": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "(shakes head)  Survey?  Honestly, I don't know what they were thinking with those games.  Some of those kids were clearly out of their depth, and it felt more like a pity party than a sporting event.  Plus, the whole thing felt incredibly political.  Don't get me wrong, I believe in equality, but these games felt more about making a statement than fostering competition. ",
+        "aspects": {
+            "Organization": "Negative",
+            "Atmosphere": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The chaotic nature of the event organization left many volunteers feeling overwhelmed and underutilized. A clearer structure and better communication could have significantly improved the experience.",
+        "aspects": {
+            "organization": "Negative",
+            "communication": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The NBMSG was an eye-opener for me. It highlighted the importance of diversity and inclusion in sports and beyond. The food selection was a bit limited, but I appreciated the effort to cater to different dietary needs. Overall, it was a well-spent weekend.",
+        "aspects": {
+            "Diversity and inclusion": "Positive",
+            "Food selection": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Signage around the event was either misleading or missing entirely. Guests like the Rodriguez family spent more time lost than enjoying the games, eventually calling it a day out of frustration.",
+        "aspects": {
+            "Signage": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The IT infrastructure was a joke. Scores and schedules were supposed to be updated in real-time, but the system was down more often than not. In today's digital age, there's no excuse for such a lack of preparation and testing.",
+        "aspects": {
+            "IT infrastructure": "Negative",
+            "real-time updates": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The tech used for updates and scores was innovative but unreliable, leading to frustration among the athletes waiting for their results. In contrast, the effort to include a wide range of sports was commendable, providing a platform for less recognized activities to shine.",
+        "aspects": {
+            "Tech for updates": "Negative",
+            "Range of sports": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "I saw people of all ages playing and that was honestly awesome. Sports really are for everyone.",
+        "aspects": {
+            "Inclusivity in sports": "Positive"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The whole event felt like it was put together with duct tape and hope. Love the concept, but the execution was way off. It's like aiming for the stars and landing in the mud.",
+        "aspects": {
+            "Event execution": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "Food options were as limited as a desert oasis. For an event celebrating diversity, the culinary experience was underwhelming and lacked variety.",
+        "aspects": {
+            "Food options": "Negative"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The mix-up with schedules actually led to some unexpected fun encounters. Sometimes, a little chaos is the universe's way of spicing things up. It's all about the experience, and I wouldn't change a thing.",
+        "aspects": {
+            "Scheduling mix-up": "Neutral"
+        },
+        "is_train": false
+    },
+    {
+        "text": "The use of technology to keep scores and schedules updated was a welcome addition to the NBMSG. While there were moments where the system seemed overwhelmed, it's a learning curve that I'm confident will improve in future events.",
+        "aspects": {
+            "Technology use": "Neutral"
+        },
+        "is_train": false
+    }
+]
